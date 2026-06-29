@@ -50,5 +50,16 @@ test
 prompt
 
 server.log
+
+# Database files
+/db/*.db
+/db/*.db-journal
+
 # Skills directory
 /skills/
+
+# Mini-services build artifacts
+.zscripts/
+
+# Download cache
+/download/

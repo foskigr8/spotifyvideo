@@ -112,11 +112,71 @@
   --sidebar-ring: oklch(0.556 0 0);
 }
 
+@theme inline {
+  --font-display: var(--font-body);
+  --font-body: var(--font-body);
+  --font-mono: var(--font-mono);
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
   body {
     @apply bg-background text-foreground;
+    background: #0A0A0A;
+    color: #F5F5F5;
   }
+  .font-display {
+    font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  }
+  .font-body {
+    font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  }
+  .font-mono {
+    font-family: var(--font-mono), ui-monospace, monospace;
+  }
+}
+
+/* Range input (scrubber) styling */
+.video-range {
+  background: linear-gradient(to right, #1DB954 0%, #1DB954 var(--progress, 0%), rgba(255,255,255,0.15) var(--progress, 0%), rgba(255,255,255,0.15) 100%);
+}
+.video-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 9999px;
+  background: #fff;
+  border: 2px solid #1DB954;
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(29,185,84,0.6);
+}
+.video-range::-moz-range-thumb {
+  height: 14px;
+  width: 14px;
+  border-radius: 9999px;
+  background: #fff;
+  border: 2px solid #1DB954;
+  cursor: pointer;
+}
+
+/* Custom scrollbar for the scene timeline */
+.overflow-x-auto::-webkit-scrollbar {
+  height: 6px;
+}
+.overflow-x-auto::-webkit-scrollbar-track {
+  background: rgba(255,255,255,0.04);
+}
+.overflow-x-auto::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.2);
+  border-radius: 9999px;
+}
+.overflow-x-auto::-webkit-scrollbar-thumb:hover {
+  background: rgba(29,185,84,0.5);
+}
+
+kbd {
+  font-family: var(--font-mono), monospace;
 }

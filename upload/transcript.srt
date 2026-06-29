@@ -1,0 +1,4256 @@
+1
+00:00:00,032 --> 00:00:03,839
+You've paid Spotify more money every single year since
+
+2
+00:00:03,951 --> 00:00:07,261
+2023. And artists are getting paid less
+
+3
+00:00:07,761 --> 00:00:10,763
+per stream than ever. Let me say that again, because it should be the most
+
+4
+00:00:10,795 --> 00:00:14,377
+insane sentence in the music industry, and somehow nobody
+
+5
+00:00:14,409 --> 00:00:17,526
+talks about it. You, the listener, are paying more for
+
+6
+00:00:18,026 --> 00:00:21,606
+Spotify today than you have ever paid in the company's 18-year history.
+
+7
+00:00:22,217 --> 00:00:25,012
+Spotify raised its prices in 2023.
+
+8
+00:00:25,558 --> 00:00:29,232
+Then again in 2024. Then again in 2025,
+
+9
+00:00:29,729 --> 00:00:32,389
+and they just announced another hike for 2026.
+
+10
+00:00:32,710 --> 00:00:36,075
+Same app, same songs, same skip button. 4 price
+
+11
+00:00:36,139 --> 00:00:39,665
+increases in 4 years. And the people who actually made
+
+12
+00:00:40,165 --> 00:00:43,495
+the music, the artists whose songs you press play on every single
+
+13
+00:00:43,527 --> 00:00:47,341
+day, are watching their per-stream payout collapse. The math
+
+14
+00:00:47,533 --> 00:00:50,722
+is not complicated. You pay more, they get less.
+
+15
+00:00:51,203 --> 00:00:55,114
+Spotify keeps the difference, If that sounds like a scam, it's because
+
+16
+00:00:55,146 --> 00:00:59,300
+it is. It's just a very polite one, with a green logo and
+
+17
+00:00:59,316 --> 00:01:03,373
+a year-end wrapped slideshow. So today we're going to do something nobody
+
+18
+00:01:03,405 --> 00:01:06,645
+at Spotify wants you to do. We're going to read the receipt.
+
+19
+00:01:07,318 --> 00:01:10,830
+All of it. Where the money goes. Why artists are quitting.
+
+20
+00:01:11,167 --> 00:01:14,679
+Why the app you open every morning has gotten measurably
+
+21
+00:01:14,855 --> 00:01:18,511
+worse. Why Spotify spent a billion dollars on podcasts and then
+
+22
+00:01:18,624 --> 00:01:22,153
+walked away. Why they invented a fake number to make
+
+23
+00:01:22,653 --> 00:01:26,165
+their payouts look bigger, and why the founder of the company is currently
+
+24
+00:01:26,665 --> 00:01:29,871
+selling shares to go build weapons in Europe while the
+
+25
+00:01:30,371 --> 00:01:33,048
+platform that made him a billionaire quietly decays.
+
+26
+00:01:33,546 --> 00:01:37,044
+This is not a hit piece. This is an audit. And it starts
+
+27
+00:01:37,092 --> 00:01:41,553
+with the simplest question in the world: Where did your $11.99
+
+28
+00:01:41,729 --> 00:01:44,778
+actually go last month? Let's walk through the receipts.
+
+29
+00:01:44,858 --> 00:01:49,430
+2021. Spotify Premium in the US: costs $9.99.
+
+30
+00:01:50,024 --> 00:01:53,424
+It had cost $9.99 since 2014.
+
+31
+00:01:53,633 --> 00:01:56,697
+7 years, zero increases. That was the deal.
+
+32
+00:01:57,049 --> 00:01:59,921
+You pay $10, you get every song ever recorded,
+
+33
+00:02:00,177 --> 00:02:03,321
+ad-free, on every device. Spotify was the
+
+34
+00:02:03,401 --> 00:02:06,529
+best deal in tech. Honestly? Maybe the best
+
+35
+00:02:07,029 --> 00:02:10,427
+deal in the history of consumer media. $10 for the entire history
+
+36
+00:02:10,459 --> 00:02:14,629
+of recorded music in your pocket. Insane. June 2023.
+
+37
+00:02:14,710 --> 00:02:17,554
+First hike. $10.99.
+
+38
+00:02:17,876 --> 00:02:21,241
+Spotify blamed market conditions, said it
+
+39
+00:02:21,741 --> 00:02:25,330
+was the first increase in the company's history. True, market conditions
+
+40
+00:02:25,346 --> 00:02:29,116
+were a convenient excuse, but the real reason was simpler: they had
+
+41
+00:02:29,132 --> 00:02:32,580
+run out of new subscribers to acquire, and Wall Street demanded
+
+42
+00:02:32,612 --> 00:02:37,248
+growth. So they started squeezing the ones they already had. April 2024.
+
+43
+00:02:37,394 --> 00:02:39,938
+Second hike. $11.99.
+
+44
+00:02:41,642 --> 00:02:45,028
+One year later. This time they didn't even bother with a real
+
+45
+00:02:45,076 --> 00:02:48,189
+excuse. They just called it expansion of features.
+
+46
+00:02:48,703 --> 00:02:51,110
+You know what features they were talking about? Audiobooks.
+
+47
+00:02:52,089 --> 00:02:54,448
+15 hours of audiobooks per month.
+
+48
+00:02:55,427 --> 00:02:58,620
+Which you didn't ask for. Which most of you have never used.
+
+49
+00:02:58,957 --> 00:03:02,118
+Which they added to your plan whether you wanted it or not so they could
+
+50
+00:03:02,182 --> 00:03:05,279
+justify charging you another dollar. That's not a feature.
+
+51
+00:03:05,873 --> 00:03:09,242
+That's a hostage. July 2025. Third hike:
+
+52
+00:03:09,739 --> 00:03:12,961
+$12.99 for the Basic individual plan.
+
+53
+00:03:13,795 --> 00:03:17,065
+The Family plan jumped to $19.99.
+
+54
+00:03:17,882 --> 00:03:21,280
+The Duo plan went to $17.99.
+
+55
+00:03:22,066 --> 00:03:25,256
+And they introduced a new tier, Spotify Basic,
+
+56
+00:03:25,432 --> 00:03:28,942
+$10.99, which is literally just the
+
+57
+00:03:29,023 --> 00:03:33,126
+old plan repackaged as the cheap option, so they could pretend
+
+58
+00:03:33,626 --> 00:03:37,005
+they still offered something under $12. That's not a price
+
+59
+00:03:37,133 --> 00:03:40,884
+increase. That's a psychological trick. They raised
+
+60
+00:03:41,384 --> 00:03:43,978
+your price, took away audiobooks from the cheap tier,
+
+61
+00:03:44,587 --> 00:03:47,857
+and then sold you back the version of the plan you used to have for
+
+62
+00:03:48,357 --> 00:03:51,335
+a dollar more than you used to pay for it. And Wall Street called it
+
+63
+00:03:51,399 --> 00:03:55,230
+brilliant. 2026. 4th hike.
+
+64
+00:03:55,550 --> 00:03:59,157
+Spotify Premium is now $14.99 for
+
+65
+00:03:59,173 --> 00:04:02,587
+individuals in several markets. The family plan is touching
+
+66
+00:04:02,763 --> 00:04:06,949
+$22. The full premium tier with audiobooks,
+
+67
+00:04:07,189 --> 00:04:10,430
+lossless, which still doesn't exist, by the way, we'll get to that,
+
+68
+00:04:10,703 --> 00:04:15,675
+and the new video features is on track to hit $16.99.
+
+69
+00:04:16,413 --> 00:04:19,670
+Do the math with me. From 2014 to 2021,
+
+70
+00:04:20,263 --> 00:04:23,953
+the price never moved. From 2023 to 2026,
+
+71
+00:04:24,113 --> 00:04:28,300
+the price went up 4 times. You are now paying 50% more
+
+72
+00:04:28,509 --> 00:04:31,652
+for Spotify than you were 3 years ago. 50%!
+
+73
+00:04:32,358 --> 00:04:35,868
+Has the product gotten 50% better? Have they added 50%
+
+74
+00:04:36,365 --> 00:04:39,780
+more music? No. The catalog was already 100
+
+75
+00:04:39,828 --> 00:04:43,755
+million songs. It's now 110 million. That's 10%
+
+76
+00:04:44,255 --> 00:04:47,570
+growth, and most of the new 10 million are AI-generated noise.
+
+77
+00:04:47,907 --> 00:04:51,129
+We'll get to that, too. Has the audio quality improved?
+
+78
+00:04:51,289 --> 00:04:54,928
+No. Spotify still streams at the exact same Ogg Vorbis
+
+79
+00:04:54,976 --> 00:04:58,631
+bitrate it streamed at in 2020. Apple Music streams lossless.
+
+80
+00:04:58,904 --> 00:05:02,430
+Tidal streams hi-res. YouTube Music is catching up.
+
+81
+00:05:03,040 --> 00:05:06,829
+Spotify is the only major streaming service that does not offer
+
+82
+00:05:07,005 --> 00:05:10,457
+lossless audio in the year 2026, 5 years
+
+83
+00:05:10,957 --> 00:05:14,439
+after they announced it. Have the artists gotten 50% more money? Definitely not.
+
+84
+00:05:15,418 --> 00:05:18,967
+Per-stream payouts have gone down. We'll cover the exact numbers
+
+85
+00:05:19,467 --> 00:05:23,029
+in a second. So you pay 50% more. The product is the same.
+
+86
+00:05:23,366 --> 00:05:26,802
+The artists are paid less. Where did the money go? 2 places.
+
+87
+00:05:27,653 --> 00:05:31,185
+Spotify's profit margin which went from negative in 2022
+
+88
+00:05:31,394 --> 00:05:35,166
+to over a b— billion dollars in 2024. And Daniel
+
+89
+00:05:35,247 --> 00:05:38,345
+Ek's bank account, which we'll get to at the end. Right now,
+
+90
+00:05:38,634 --> 00:05:41,139
+just hold on to that number. 50% more.
+
+91
+00:05:42,102 --> 00:05:44,623
+For nothing. But that's the price hike story.
+
+92
+00:05:45,137 --> 00:05:48,765
+The artist payout story is worse. Here's the number Spotify
+
+93
+00:05:49,070 --> 00:05:52,714
+wants you to remember: $10 billion. In 2024,
+
+94
+00:05:53,068 --> 00:05:56,760
+Spotify announced it had paid $10 billion to the music
+
+95
+00:05:57,260 --> 00:06:01,074
+industry in a single year. Cumulative total since launch: nearly
+
+96
+00:06:01,106 --> 00:06:04,631
+$50 billion. They put it in a press release. They put
+
+97
+00:06:05,131 --> 00:06:08,540
+it in their investor call. They put a giant infographic on their blog.
+
+98
+00:06:08,733 --> 00:06:12,097
+Spotify has now paid the music industry nearly $50
+
+99
+00:06:12,226 --> 00:06:15,046
+billion. That sounds incredible, right?
+
+100
+00:06:15,430 --> 00:06:19,484
+Wrong. Let me tell you what that number actually means, because Spotify
+
+101
+00:06:19,532 --> 00:06:23,234
+is very deliberately not telling you. Paid to the
+
+102
+00:06:23,734 --> 00:06:27,436
+music industry does not mean paid to artists. The music industry is a chain.
+
+103
+00:06:28,046 --> 00:06:31,051
+Spotify pays the money to a distributor, DistroKid,
+
+104
+00:06:31,308 --> 00:06:34,553
+TuneCore, CD Baby, or directly to a major label.
+
+105
+00:06:34,842 --> 00:06:38,361
+The distributor or label takes their cut, usually 20-30%.
+
+106
+00:06:39,341 --> 00:06:42,651
+Then the label takes another cut, if there's a label involved,
+
+107
+00:06:42,812 --> 00:06:45,880
+usually 50-85% of what's left.
+
+108
+00:06:46,169 --> 00:06:49,785
+Then the publisher takes a cut. Then the songwriter gets a sliver.
+
+109
+00:06:50,122 --> 00:06:53,704
+Then, finally, the artist gets paid. If there's anything left.
+
+110
+00:06:54,202 --> 00:06:57,800
+Which there usually isn't. That $10 billion headline?
+
+111
+00:06:58,218 --> 00:07:02,024
+It's the top-line number, before every middleman in the chain takes
+
+112
+00:07:02,524 --> 00:07:05,879
+a bite. The amount that actually hits an artist's bank account is
+
+113
+00:07:06,379 --> 00:07:09,814
+a fraction of a fraction of a fraction. Now let's talk per
+
+114
+00:07:10,314 --> 00:07:13,732
+stream. The widely cited industry estimate for Spotify's
+
+115
+00:07:14,232 --> 00:07:17,956
+per-stream payout is between 3/10 of a cent and 5/10
+
+116
+00:07:18,133 --> 00:07:21,355
+of a cent. 3 tenths of a cent to one half of a cent per
+
+117
+00:07:21,855 --> 00:07:25,810
+stream. To make minimum wage in the United States, $15 an
+
+118
+00:07:25,986 --> 00:07:29,527
+hour, which is itself a low bar, an artist would need roughly
+
+119
+00:07:30,027 --> 00:07:33,982
+4,000 streams per hour. To make the average American salary
+
+120
+00:07:34,174 --> 00:07:38,196
+of about $59,000, an artist would need around 20
+
+121
+00:07:38,696 --> 00:07:42,346
+million streams in a year. 20 million. For context,
+
+122
+00:07:42,410 --> 00:07:45,711
+the average song on Spotify gets about 30 streams per
+
+123
+00:07:46,211 --> 00:07:49,814
+month. Not 30,000. 30. If you're a normal
+
+124
+00:07:49,974 --> 00:07:53,516
+independent artist with a small but loyal audience,
+
+125
+00:07:53,805 --> 00:07:57,732
+say 2,000 monthly listeners, which is actually pretty good for
+
+126
+00:07:58,232 --> 00:08:01,931
+an indie, you are generating something like 60,000 streams a
+
+127
+00:08:01,963 --> 00:08:05,473
+month. At 3/10 of a cent per stream, that's $180
+
+128
+00:08:06,307 --> 00:08:09,737
+a month. Before distributor fees. Before label cuts.
+
+129
+00:08:10,154 --> 00:08:13,488
+Before taxes. $180 for
+
+130
+00:08:13,520 --> 00:08:17,034
+a month of work that probably took a year to make. And it
+
+131
+00:08:17,534 --> 00:08:21,175
+gets worse. Because Spotify doesn't pay a flat rate per stream.
+
+132
+00:08:21,625 --> 00:08:25,141
+The payout is determined by something called the revenue share model.
+
+133
+00:08:25,959 --> 00:08:28,736
+Here's how it actually works. Every month,
+
+134
+00:08:29,106 --> 00:08:32,653
+Spotify pools all of its subscription revenue from every country.
+
+135
+00:08:33,023 --> 00:08:35,992
+They take their cut, roughly 30%, off the top.
+
+136
+00:08:36,474 --> 00:08:40,214
+Then they divide what's left by the total number of streams across
+
+137
+00:08:40,327 --> 00:08:43,570
+the entire platform, weighted by where those streams came
+
+138
+00:08:43,682 --> 00:08:47,166
+from. A stream from a US subscriber is worth
+
+139
+00:08:47,230 --> 00:08:50,425
+more than a stream from a Brazilian subscriber because the
+
+140
+00:08:50,506 --> 00:08:53,668
+US subscriber pays more. So your payout per
+
+141
+00:08:54,168 --> 00:08:57,762
+stream isn't 3 tenths of a cent. It's 3 tenths of a cent if your
+
+142
+00:08:57,811 --> 00:09:00,957
+listeners are in the US. It's 1 tenth of a cent
+
+143
+00:09:01,054 --> 00:09:04,891
+if they're in India. It's 7 hundredths of a cent if they're in Nigeria.
+
+144
+00:09:05,356 --> 00:09:08,871
+It's 5 tenths of a cent if they're in Norway. The same song,
+
+145
+00:09:09,063 --> 00:09:12,284
+the same stream, the same artist, the same 3
+
+146
+00:09:12,784 --> 00:09:16,882
+minutes and 47 seconds of music worth different amounts of money depending
+
+147
+00:09:17,058 --> 00:09:20,872
+on which country the listener happens to be in when they hit play.
+
+148
+00:09:21,881 --> 00:09:25,134
+That's why the per-stream number you see quoted is an average.
+
+149
+00:09:25,630 --> 00:09:29,027
+A meaningless average. Some artists make half a cent per
+
+150
+00:09:29,527 --> 00:09:33,065
+stream, some make a tenth of a cent. Spotify knows
+
+151
+00:09:33,113 --> 00:09:36,301
+this, they've known it for years. They've done nothing to fix it,
+
+152
+00:09:36,462 --> 00:09:40,034
+Because the ambiguity benefits them. If nobody knows exactly
+
+153
+00:09:40,066 --> 00:09:43,558
+what a stream is worth, nobody can prove they're being underpaid.
+
+154
+00:09:43,895 --> 00:09:48,204
+And they are being underpaid. By every possible measure. In 2014,
+
+155
+00:09:48,653 --> 00:09:51,921
+the per-stream payout was around 7 tenths of a cent.
+
+156
+00:09:52,305 --> 00:09:56,038
+Today, it's 3 tenths of a cent. In a decade, the value
+
+157
+00:09:56,086 --> 00:09:59,547
+of a single stream has dropped by more than half. And in that
+
+158
+00:10:00,047 --> 00:10:03,904
+same decade, Spotify's revenue has more than tripled. From $5
+
+159
+00:10:04,000 --> 00:10:07,893
+billion in 2019 to over $15 billion in 2024.
+
+160
+00:10:08,422 --> 00:10:12,083
+The pie got 3 times bigger. The slice that goes to artists
+
+161
+00:10:12,195 --> 00:10:15,214
+got twice as small. That's not a market correction.
+
+162
+00:10:15,487 --> 00:10:19,180
+That's a structural feature. Spotify has engineered their payout
+
+163
+00:10:19,680 --> 00:10:23,997
+system so that as the company grows, artists get less. On purpose.
+
+164
+00:10:24,238 --> 00:10:27,947
+You'd think a company that just announced record profits would share the love.
+
+165
+00:10:28,637 --> 00:10:31,849
+Right? Wrong. They announced a new rule instead. And it
+
+166
+00:10:32,349 --> 00:10:36,007
+might be the worst one yet. Every dollar you pay Spotify gets
+
+167
+00:10:36,104 --> 00:10:39,732
+split. Here's the rough breakdown: roughly 30 cents
+
+168
+00:10:40,232 --> 00:10:44,228
+goes to Spotify. That's their revenue. Their cut. Their fee for running the
+
+169
+00:10:44,728 --> 00:10:47,969
+platform. Out of that 30 cents, Spotify pays for servers,
+
+170
+00:10:48,466 --> 00:10:50,698
+bandwidth, app development, marketing,
+
+171
+00:10:51,131 --> 00:10:54,953
+podcasts, which we'll get to, and increasingly, AI features
+
+172
+00:10:54,969 --> 00:10:58,405
+that nobody asked for. The other 70 cents goes to rights holders.
+
+173
+00:10:58,758 --> 00:11:01,937
+Labels, distributors, publishers, and eventually,
+
+174
+00:11:02,194 --> 00:11:05,759
+maybe, artists. But that 70 cents doesn't get
+
+175
+00:11:06,259 --> 00:11:10,834
+split equally. It gets split based on market share. Which means Universal
+
+176
+00:11:10,882 --> 00:11:14,897
+Music Group, the largest label in the world, gets a much bigger chunk
+
+177
+00:11:14,978 --> 00:11:18,061
+than an independent artist on DistroKid. Even if
+
+178
+00:11:18,093 --> 00:11:21,450
+the independent artist generates the same number of streams
+
+179
+00:11:21,803 --> 00:11:25,818
+as a Universal artist, the Universal artist gets paid more per
+
+180
+00:11:26,318 --> 00:11:29,800
+stream. Because Universal has negotiated a better deal. This is
+
+181
+00:11:29,832 --> 00:11:33,904
+the part nobody explains to you when you sign up to put your music on
+
+182
+00:11:34,404 --> 00:11:37,896
+Spotify. The major labels get minimum revenue guarantees.
+
+183
+00:11:38,313 --> 00:11:42,785
+They get advances. They get marketing credits. They get preferential playlist
+
+184
+00:11:42,817 --> 00:11:46,103
+placement. The independent artist gets the standard rate,
+
+185
+00:11:46,360 --> 00:11:50,111
+minus distribu— distributor fees, minus whatever the distributor's
+
+186
+00:11:50,611 --> 00:11:53,926
+payment processor charges, minus whatever the bank charges
+
+187
+00:11:54,199 --> 00:11:58,820
+to convert the currency. A major label artist might see something like 5/10
+
+188
+00:11:59,173 --> 00:12:03,588
+of a cent per stream after everyone takes their cut. An independent
+
+189
+00:12:03,652 --> 00:12:07,730
+artist might see 1/10 of a cent. Same platform, same listener,
+
+190
+00:12:07,762 --> 00:12:11,502
+same 3-minute song. 5 times difference in payout.
+
+191
+00:12:11,695 --> 00:12:14,633
+Because the system isn't designed to reward streams.
+
+192
+00:12:14,986 --> 00:12:18,100
+It's designed to reward scale. And there's another wrinkle.
+
+193
+00:12:18,373 --> 00:12:21,584
+Spotify has been pushing what they call Discovery Mode.
+
+194
+00:12:21,728 --> 00:12:24,857
+Here's the pitch. As an artist, you can opt into
+
+195
+00:12:24,873 --> 00:12:28,594
+Discovery Mode on a track, and Spotify will algorithmically boost
+
+196
+00:12:28,626 --> 00:12:31,722
+that track in playlists and radio stations. More reach,
+
+197
+00:12:31,979 --> 00:12:35,171
+more streams, more listeners. Sounds great. The catch?
+
+198
+00:12:35,941 --> 00:12:40,416
+If you opt in, you agree to accept a lower royalty rate on streams
+
+199
+00:12:40,916 --> 00:12:44,057
+of that track. Spotify doesn't tell you exactly how much lower.
+
+200
+00:12:44,426 --> 00:12:46,992
+They just say it's a promotional royalty rate.
+
+201
+00:12:47,778 --> 00:12:52,014
+Translation: you pay Spotify to promote your song, by accepting less money
+
+202
+00:12:52,046 --> 00:12:54,744
+per stream. This is, by any reasonable definition,
+
+203
+00:12:54,936 --> 00:12:58,211
+payola. Payola, the practice of paying a
+
+204
+00:12:58,711 --> 00:13:03,044
+radio station to play your song, was made illegal in the United States in 1960.
+
+205
+00:13:03,670 --> 00:13:07,893
+After a massive congressional investigation. Spotify reinvented
+
+206
+00:13:07,941 --> 00:13:11,328
+payola, made it algorithmic, called it Discovery Mode.
+
+207
+00:13:11,553 --> 00:13:15,872
+And nobody sued them. Because the legal definition of payola involves
+
+208
+00:13:15,904 --> 00:13:19,256
+a direct payment. Discovery Mode isn't a direct payment.
+
+209
+00:13:19,416 --> 00:13:23,471
+It's a discounted royalty. Loophole closed. Loophole immediately
+
+210
+00:13:23,503 --> 00:13:26,677
+reopened. Major labels use Discovery Mode freely.
+
+211
+00:13:27,030 --> 00:13:29,354
+They have the volume to absorb the lower rate.
+
+212
+00:13:30,220 --> 00:13:33,842
+Independent artists who use it end up paying Spotify to promote
+
+213
+00:13:34,342 --> 00:13:37,753
+their own music, and the royalty hit can wipe out most of what they
+
+214
+00:13:37,849 --> 00:13:42,530
+earn from the boosted streams. So, the system looks like this: Spotify
+
+215
+00:13:42,658 --> 00:13:46,650
+takes 30% off the top. Then the major labels negotiate better
+
+216
+00:13:47,150 --> 00:13:51,379
+rates. Then the major labels use Discovery Mode to boost their artists
+
+217
+00:13:51,395 --> 00:13:55,130
+into your Discover Weekly and Release Radar playlists. Then those
+
+218
+00:13:55,226 --> 00:13:58,897
+artists get more streams, which gives the major labels
+
+219
+00:13:58,945 --> 00:14:02,296
+more market share. Which gives them an even bigger chunk of the
+
+220
+00:14:02,796 --> 00:14:05,774
+next month's pool. The flywheel spins in one direction.
+
+221
+00:14:06,287 --> 00:14:09,974
+Toward Universal, Sony, and Warner. Always, and every
+
+222
+00:14:09,990 --> 00:14:12,811
+quarter, Spotify announces record revenue.
+
+223
+00:14:13,580 --> 00:14:17,041
+And every quarter independent artists make less per stream than
+
+224
+00:14:17,541 --> 00:14:21,208
+the quarter before. And every quarter somebody at Spotify writes a
+
+225
+00:14:21,708 --> 00:14:24,477
+blog post about how the company is democratizing music.
+
+226
+00:14:25,054 --> 00:14:28,547
+Democratizing. That word. I don't think it means
+
+227
+00:14:28,643 --> 00:14:32,425
+what they think it means. Now, let's talk about the artists who actually
+
+228
+00:14:32,489 --> 00:14:35,790
+quit. Because some of them have, and the ones who haven't are
+
+229
+00:14:36,290 --> 00:14:40,204
+about to. In November 2023, Spotify quietly
+
+230
+00:14:40,704 --> 00:14:44,700
+announced a change to their royalty system. Quietly is the operative word.
+
+231
+00:14:44,957 --> 00:14:47,799
+It wasn't a press release. It wasn't an email to artists.
+
+232
+00:14:48,136 --> 00:14:52,006
+It was a blog post on a Spotify for Artists subdomain, written in
+
+233
+00:14:52,506 --> 00:14:56,357
+the driest corporate language possible, dropped on a Friday afternoon. Which,
+
+234
+00:14:56,807 --> 00:15:00,114
+as anyone in PR knows, is the day you announce things you
+
+235
+00:15:00,178 --> 00:15:03,936
+want people to ignore. Here's the rule: Starting in early
+
+236
+00:15:03,952 --> 00:15:07,838
+2024, any track that doesn't reach 1,000 streams
+
+237
+00:15:07,902 --> 00:15:11,579
+in a 12-month period earns zero royalties. Zero.
+
+238
+00:15:11,739 --> 00:15:15,416
+Not less. Spotify framed this as a fight against fraud. They said
+
+239
+00:15:15,448 --> 00:15:19,174
+there were tens of millions of tracks on the platform generating
+
+240
+00:15:19,318 --> 00:15:22,963
+tiny amounts of money— fractions of a cent— and that those
+
+241
+00:15:23,059 --> 00:15:26,576
+tracks were clogging up the system. By zeroing them
+
+242
+00:15:26,608 --> 00:15:30,285
+out, they said, they could redirect that money to working artists.
+
+243
+00:15:30,798 --> 00:15:33,956
+Sounds reasonable, right? Wrong.
+
+244
+00:15:34,389 --> 00:15:38,252
+Here's what they didn't tell you. Roughly 2/3 of the tracks on Spotify,
+
+245
+00:15:38,653 --> 00:15:41,490
+somewhere around 65 to 70 million songs,
+
+246
+00:15:41,923 --> 00:15:45,834
+get fewer than 1,000 streams per year. That's not a fringe
+
+247
+00:15:45,851 --> 00:15:49,313
+group of noise tracks. That's the majority of the catalog.
+
+248
+00:15:49,618 --> 00:15:53,032
+Independent artists, local bands, composers,
+
+249
+00:15:53,305 --> 00:15:57,248
+producers, bedroom musicians. The people Spotify claims
+
+250
+00:15:57,748 --> 00:16:01,544
+to champion. Under the old system, those tracks collectively generated something
+
+251
+00:16:01,560 --> 00:16:04,787
+like $40 million $40 million a year. Not a lot per artist,
+
+252
+00:16:05,092 --> 00:16:09,477
+but it was real money. A few hundred bucks for an indie musician is groceries.
+
+253
+00:16:09,750 --> 00:16:12,978
+It's a guitar string change. It's gas to drive to the next
+
+254
+00:16:13,026 --> 00:16:16,865
+gig. Spotify took that $40 million and redistributed it.
+
+255
+00:16:17,219 --> 00:16:20,559
+Not to working artists. To the major labels.
+
+256
+00:16:20,832 --> 00:16:24,655
+Here's how the redistribution actually works. The money saved
+
+257
+00:16:24,671 --> 00:16:27,835
+from the demonetized tracks goes back into the revenue share
+
+258
+00:16:27,980 --> 00:16:31,576
+pool. That pool is then divided based on total market
+
+259
+00:16:32,076 --> 00:16:34,915
+share. And who has the biggest market share on Spotify?
+
+260
+00:16:35,268 --> 00:16:38,655
+Universal, Sony, and Warner. The big 3.
+
+261
+00:16:38,879 --> 00:16:42,475
+Together they control roughly 70% of all streams on the platform.
+
+262
+00:16:42,764 --> 00:16:46,585
+So when Spotify redistributes the demonetized track money,
+
+263
+00:16:46,938 --> 00:16:50,501
+70 cents of every dollar goes to the 3 companies
+
+264
+00:16:50,694 --> 00:16:54,225
+that already make more money from music than anyone else
+
+265
+00:16:54,725 --> 00:16:58,331
+on Earth. Spotify didn't fight fraud. They took money from the bottom
+
+266
+00:16:58,831 --> 00:17:02,849
+of the pyramid and gave it to the top. And then they called it artist-friendly?
+
+267
+00:17:03,362 --> 00:17:07,048
+The independent artist, who had a song that got 800 streams last
+
+268
+00:17:07,548 --> 00:17:11,310
+year, used to make about $3 from that song. Now they
+
+269
+00:17:11,358 --> 00:17:14,947
+make zero. The major label artist whose song got a billion
+
+270
+00:17:14,995 --> 00:17:18,633
+streams makes slightly more. The indie artist doesn't get to
+
+271
+00:17:18,649 --> 00:17:22,238
+complain because, well, $3 wasn't exactly
+
+272
+00:17:22,270 --> 00:17:25,623
+life-changing, was it? That's the trick. The amount per
+
+273
+00:17:25,703 --> 00:17:29,542
+artist is small enough that no individual artist can justify
+
+274
+00:17:29,574 --> 00:17:32,947
+hiring a lawyer. Multiply that by millions of artists,
+
+275
+00:17:33,830 --> 00:17:37,621
+and you've got a massive transfer of wealth from the people who need it to
+
+276
+00:17:38,121 --> 00:17:41,379
+the people who already have it. And there's a second-order effect
+
+277
+00:17:41,879 --> 00:17:45,619
+that's even uglier. The 1,000-stream threshold has created
+
+278
+00:17:46,119 --> 00:17:49,859
+an incentive to cheat. If you're an artist and your track is sitting at
+
+279
+00:17:50,359 --> 00:17:53,999
+800 streams in November? What do you do? You buy streams.
+
+280
+00:17:54,304 --> 00:17:57,609
+You hire a bot farm. You pay a service in Eastern Europe
+
+281
+00:17:58,109 --> 00:18:01,636
+to push you over the line. Spotify created the demonetization rule,
+
+282
+00:18:02,230 --> 00:18:05,262
+and in doing so, they created the streaming fraud industry.
+
+283
+00:18:05,535 --> 00:18:09,064
+Which we'll get to in a minute. But first, let's talk about the artists
+
+284
+00:18:09,564 --> 00:18:13,284
+this rule was supposed to help. The working musicians.
+
+285
+00:18:13,701 --> 00:18:17,520
+The middle class of music. Because they're the ones getting squeezed
+
+286
+00:18:17,552 --> 00:18:20,986
+the hardest. And they're disappearing. Here's a question.
+
+287
+00:18:21,420 --> 00:18:24,677
+When was the last time a brand new artist, someone you'd never
+
+288
+00:18:24,693 --> 00:18:28,336
+heard of, with no label, no TikTok viral moment,
+
+289
+00:18:28,705 --> 00:18:32,123
+no industry connection, blew up on Spotify and became a star?
+
+290
+00:18:32,717 --> 00:18:36,328
+Take your time, I'll wait. You're probably thinking of Chance the Rapper.
+
+291
+00:18:36,905 --> 00:18:40,404
+He was the indie success story. Self-released, no label,
+
+292
+00:18:40,660 --> 00:18:43,936
+won a Grammy, streaming only. That was 2016.
+
+293
+00:18:44,675 --> 00:18:48,403
+Almost a decade ago. Since then? Crickets. The middle class
+
+294
+00:18:48,903 --> 00:18:52,282
+of music has been hollowed out so completely that the term doesn't even apply
+
+295
+00:18:52,412 --> 00:18:56,164
+anymore. There are now essentially 2 kinds of musicians on Spotify.
+
+296
+00:18:57,123 --> 00:19:00,078
+At the top, you have the megastars. Taylor,
+
+297
+00:19:00,369 --> 00:19:03,991
+Drake, Bad Bunny, The Weeknd, Billie. They make
+
+298
+00:19:04,491 --> 00:19:08,259
+millions from streaming because they generate billions of streams. They play the
+
+299
+00:19:08,292 --> 00:19:11,085
+game at a scale where the per-stream rate doesn't matter.
+
+300
+00:19:11,998 --> 00:19:15,723
+Even at 3 tenths of a cent, a billion streams is $3
+
+301
+00:19:16,223 --> 00:19:19,689
+million. They're fine. At the bottom, you have the hobbyists.
+
+302
+00:19:20,106 --> 00:19:24,458
+People who make music in their bedrooms, upload it to Spotify via DistroKid,
+
+303
+00:19:24,698 --> 00:19:27,878
+share it with their friends, and don't expect to make money.
+
+304
+00:19:28,311 --> 00:19:31,635
+For them, Spotify is just a place to host their music.
+
+305
+00:19:32,069 --> 00:19:35,328
+They're not trying to make a living. They're fine too. The middle is gone.
+
+306
+00:19:35,922 --> 00:19:38,234
+The working musician, the person who tours,
+
+307
+00:19:38,523 --> 00:19:42,068
+sells merch, has a real but modest fan base,
+
+308
+00:19:42,357 --> 00:19:45,210
+maybe 20,000 to 100,000 monthly listeners.
+
+309
+00:19:45,547 --> 00:19:48,914
+That person cannot survive on streaming revenue. The math doesn't work.
+
+310
+00:19:49,170 --> 00:19:52,905
+Here's a real example. In 2024, an artist named
+
+311
+00:19:52,937 --> 00:19:55,631
+Maria Zardoya, who fronts The Marias,
+
+312
+00:19:56,208 --> 00:19:59,799
+a successful indie band with hundreds of thousands of monthly listeners,
+
+313
+00:20:00,312 --> 00:20:03,486
+a Grammy nomination, real fans, real touring,
+
+314
+00:20:03,678 --> 00:20:07,528
+posted her streaming numbers. Hundreds of millions of streams across
+
+315
+00:20:08,028 --> 00:20:11,267
+platforms. Total revenue: enough to live on, barely,
+
+316
+00:20:11,476 --> 00:20:15,392
+if you split it 4 ways between band members and a manager and an agent
+
+317
+00:20:15,472 --> 00:20:18,891
+and don't count the cost of actually making the music. She's one
+
+318
+00:20:18,939 --> 00:20:22,181
+of the lucky ones. She has a label. She has fans.
+
+319
+00:20:22,678 --> 00:20:26,129
+She tours. Now imagine an artist with a tenth of her
+
+320
+00:20:26,209 --> 00:20:30,141
+audience. 200,000 monthly listeners. That's a successful
+
+321
+00:20:30,221 --> 00:20:33,608
+artist by indie standards. At 3 tenths of a cent per
+
+322
+00:20:34,108 --> 00:20:39,194
+stream, 200,000 monthly listeners generating maybe 600,000
+
+323
+00:20:39,694 --> 00:20:43,433
+streams a month, that's roughly $1,800. Before label cut,
+
+324
+00:20:43,946 --> 00:20:47,623
+before manager cut, before agent, before taxes,
+
+325
+00:20:48,136 --> 00:20:51,668
+after everyone takes their piece, the artist takes home maybe
+
+326
+00:20:52,168 --> 00:20:56,484
+$600, $600 a month. From a song catalog
+
+327
+00:20:56,984 --> 00:21:00,803
+that took years to build, that hundreds of thousands of people listen to
+
+328
+00:21:00,963 --> 00:21:04,401
+every month. That's not a career. That's a hobby that
+
+329
+00:21:04,417 --> 00:21:07,663
+happens to pay for itself. This is why the middle class of
+
+330
+00:21:07,711 --> 00:21:11,744
+music is collapsing. Not because people don't care about music
+
+331
+00:21:12,244 --> 00:21:15,488
+anymore. They care more than ever. Music consumption is at an
+
+332
+00:21:15,745 --> 00:21:19,938
+all-time high. Spotify users stream over a billion hours of music
+
+333
+00:21:20,163 --> 00:21:23,827
+every single day. People love music. They just don't pay
+
+334
+00:21:23,859 --> 00:21:27,490
+for it in a way that lets musicians live. And here's the structural
+
+335
+00:21:27,990 --> 00:21:31,327
+reason. In the old model— CDs, vinyl, even iTunes— if
+
+336
+00:21:31,827 --> 00:21:35,196
+you bought an album, the artist got a meaningful chunk of that sale. $10 for
+
+337
+00:21:35,696 --> 00:21:39,161
+a CD, the artist might get a dollar, maybe 2, but it was a
+
+338
+00:21:39,209 --> 00:21:42,467
+dollar. A real dollar. A complete transaction.
+
+339
+00:21:42,885 --> 00:21:45,935
+You bought the album, they got paid. In the streaming model,
+
+340
+00:21:46,432 --> 00:21:50,462
+that same $10 gets split across thousands of artists
+
+341
+00:21:50,991 --> 00:21:54,443
+based on what you listened to that month. If you listened to one artist
+
+342
+00:21:54,603 --> 00:21:57,873
+all month, That artist gets your share of the pool.
+
+343
+00:21:58,706 --> 00:22:03,016
+If you listen to 1,000, each one gets a sliver. The artist
+
+344
+00:22:03,516 --> 00:22:06,637
+who made your favorite album of the year? They get fractions of a cent from
+
+345
+00:22:06,701 --> 00:22:09,906
+you, even though you love their work. Because the system doesn't
+
+346
+00:22:09,922 --> 00:22:13,735
+care what you love. It cares what you played. And the industry knows
+
+347
+00:22:13,831 --> 00:22:16,747
+this. That's why tours have gotten more expensive.
+
+348
+00:22:17,036 --> 00:22:20,689
+Why merch costs more. Why artists sell
+
+349
+00:22:20,817 --> 00:22:23,989
+their catalogs for hundreds of millions to private equity.
+
+350
+00:22:24,262 --> 00:22:28,000
+Streaming doesn't pay, so every other revenue stream has
+
+351
+00:22:28,032 --> 00:22:31,402
+to compensate. The concert ticket that used to cost $40
+
+352
+00:22:31,883 --> 00:22:35,317
+now costs $120 because the artist can't
+
+353
+00:22:35,817 --> 00:22:39,008
+make rent from Spotify plays. You think Ticketmaster is the
+
+354
+00:22:39,024 --> 00:22:43,003
+bad guy. And they are. But Ticketmaster is a symptom. Spotify is
+
+355
+00:22:43,051 --> 00:22:47,015
+the disease. When the world's largest music platform pays
+
+356
+00:22:47,143 --> 00:22:49,598
+artists 3/10 of a cent per stream,
+
+357
+00:22:50,160 --> 00:22:53,898
+every other part of the music industry has to extract more
+
+358
+00:22:54,011 --> 00:22:57,687
+from you to make up the difference. The middle class of music is dying
+
+359
+00:22:57,720 --> 00:23:00,788
+in front of us. Quietly. Without protest.
+
+360
+00:23:01,174 --> 00:23:05,078
+Because the artist who would protest can't afford to take a year off to organize.
+
+361
+00:23:05,592 --> 00:23:09,030
+They're too busy trying to pay rent. And Spotify's response?
+
+362
+00:23:09,769 --> 00:23:13,657
+They raised the price of Premium again. And introduced a new feature
+
+363
+00:23:13,866 --> 00:23:17,272
+called, I'm not making this up, AI DJ. But before
+
+364
+00:23:17,320 --> 00:23:21,112
+we get to the AI slop, let's talk about the fraud economy Spotify's
+
+365
+00:23:21,241 --> 00:23:25,539
+own rules created. Because that's the next domino. In January 2024,
+
+366
+00:23:26,084 --> 00:23:30,044
+Spotify removed a song called Heat of the Moment by an artist named
+
+367
+00:23:30,140 --> 00:23:33,651
+Antonio Lulic. Or rather, they removed billions of streams from
+
+368
+00:23:33,683 --> 00:23:37,482
+him. Specifically, they accused him of using bots to
+
+369
+00:23:37,530 --> 00:23:41,586
+inflate his play counts and stripped him of around 700
+
+370
+00:23:41,602 --> 00:23:45,529
+million streams. He wasn't alone. In late 2023 and
+
+371
+00:23:45,545 --> 00:23:49,216
+throughout 2024, Spotify went on a purge.
+
+372
+00:23:49,312 --> 00:23:53,223
+They removed millions of tracks and billions of streams from artists they
+
+373
+00:23:53,239 --> 00:23:57,184
+accused of streaming fraud. They published a loud-and-clear report claiming
+
+374
+00:23:57,232 --> 00:24:00,952
+they'd identified and stopped hundreds of millions of dollars in fraudulent
+
+375
+00:24:01,016 --> 00:24:03,742
+payouts. Sounds great, right?
+
+376
+00:24:04,704 --> 00:24:07,799
+Spotify fighting fraud. Protecting artists wrong.
+
+377
+00:24:08,376 --> 00:24:12,433
+Here's the part they don't put in the press release: Spotify created
+
+378
+00:24:12,481 --> 00:24:16,522
+the fraud problem. The fraud exists because Spotify's payout system
+
+379
+00:24:16,570 --> 00:24:19,985
+rewards streams above all else. If streams are money,
+
+380
+00:24:20,242 --> 00:24:23,431
+then fake streams are fake money. And fake money
+
+381
+00:24:23,528 --> 00:24:27,229
+is, in any system with a leak, going to be manufactured. The bot
+
+382
+00:24:27,729 --> 00:24:31,314
+farm industry is now worth an estimated hundreds of millions of dollars per
+
+383
+00:24:31,814 --> 00:24:35,448
+year. There are services, legal services, operating openly,
+
+384
+00:24:36,024 --> 00:24:40,094
+advertising on Google, that will sell you 10,000 Spotify streams
+
+385
+00:24:40,286 --> 00:24:43,699
+for around $10. They use networks of compromised
+
+386
+00:24:43,731 --> 00:24:47,704
+devices, fake accounts, and residential IP proxies
+
+387
+00:24:47,816 --> 00:24:51,181
+to generate streams that look real to Spotify's detection
+
+388
+00:24:51,681 --> 00:24:55,475
+systems. An artist who's 800 streams short of the demonetization
+
+389
+00:24:55,587 --> 00:24:59,497
+threshold can pay $15 and cross the line. A label
+
+390
+00:24:59,997 --> 00:25:03,808
+trying to push a new single up the charts can buy half a million streams
+
+391
+00:25:04,000 --> 00:25:07,573
+for a few thousand dollars and trigger algorithmic momentum
+
+392
+00:25:07,669 --> 00:25:10,746
+that generates real streams. This isn't a fringe
+
+393
+00:25:10,794 --> 00:25:14,031
+problem. Spotify themselves estimated that somewhere
+
+394
+00:25:14,095 --> 00:25:17,668
+between 2 and 4% of all streams on the platform are
+
+395
+00:25:17,765 --> 00:25:20,751
+fake. That's billions of streams per month.
+
+396
+00:25:21,152 --> 00:25:23,915
+And the actual number is almost certainly higher.
+
+397
+00:25:24,188 --> 00:25:27,979
+Because Spotify's detection is— charitably— mediocre.
+
+398
+00:25:28,285 --> 00:25:31,481
+Independent analyses have put the fraud rate closer to 10%.
+
+399
+00:25:32,541 --> 00:25:35,754
+Here's what that means in dollar terms. If Spotify pays
+
+400
+00:25:36,254 --> 00:25:39,947
+out around $9 billion a year to rights holders, and even
+
+401
+00:25:40,447 --> 00:25:44,701
+5% of streams are fraudulent, that's roughly $450
+
+402
+00:25:45,201 --> 00:25:48,745
+million per year. Going to fake artists, fake labels,
+
+403
+00:25:48,937 --> 00:25:53,026
+and the bot farms that serve them. $450 million that
+
+404
+00:25:53,526 --> 00:25:56,378
+should've gone to real musicians making real music.
+
+405
+00:25:57,019 --> 00:26:00,483
+And here's the kicker: that money comes out of the same revenue
+
+406
+00:26:00,983 --> 00:26:04,026
+share pool as everyone else's. Every fake stream
+
+407
+00:26:04,526 --> 00:26:08,163
+is a fraction of a cent stolen from a real artist. When a bot farm
+
+408
+00:26:08,663 --> 00:26:11,996
+generates a million streams for a fake artist, that million
+
+409
+00:26:12,028 --> 00:26:15,911
+streams' worth of money is deducted from the pool that would have gone
+
+410
+00:26:16,024 --> 00:26:18,833
+to legitimate artists. Spotify knows this.
+
+411
+00:26:19,251 --> 00:26:22,992
+They've known it for years. They periodically announce crackdowns,
+
+412
+00:26:23,329 --> 00:26:26,540
+like the 2024 purge, to make it look
+
+413
+00:26:27,040 --> 00:26:30,474
+like they're doing something. But the structural problem is theirs to
+
+414
+00:26:30,974 --> 00:26:35,226
+solve, and they haven't solved it because solving it would require either
+
+415
+00:26:35,726 --> 00:26:39,529
+dramatically improving their detection technology, which costs money,
+
+416
+00:26:39,866 --> 00:26:44,577
+or fundamentally changing the payout model away from pure per-stream
+
+417
+00:26:44,769 --> 00:26:48,679
+revenue share, which would upset the major labels who benefit
+
+418
+00:26:49,179 --> 00:26:52,941
+from the current system. So instead, they publish an annual report,
+
+419
+00:26:53,101 --> 00:26:56,754
+purge a few scapegoats, and move on. There's another layer to this.
+
+420
+00:26:57,604 --> 00:27:00,920
+Some of the streaming fraud isn't even fraud. It's just
+
+421
+00:27:01,033 --> 00:27:04,862
+artists asking their fans to stream their music. Spotify's terms
+
+422
+00:27:04,878 --> 00:27:09,110
+of service prohibit artificial streaming, But the line between artificial
+
+423
+00:27:09,126 --> 00:27:12,541
+and organic is blurry. If an artist tells their fans
+
+424
+00:27:12,573 --> 00:27:16,405
+to put their album on repeat while they sleep, is that artificial?
+
+425
+00:27:17,047 --> 00:27:20,895
+If a fan runs a playlist on shuffle for 16 hours a day to support
+
+426
+00:27:21,395 --> 00:27:24,310
+their favorite band, is that artificial? Spotify says yes,
+
+427
+00:27:24,615 --> 00:27:28,495
+sometimes. They've flagged legitimate fan streaming as fraud
+
+428
+00:27:28,671 --> 00:27:32,808
+and pulled royalties from artists who did nothing wrong. So you have real
+
+429
+00:27:32,856 --> 00:27:36,944
+fraud going unpunished at scale, Real artists being punished
+
+430
+00:27:37,444 --> 00:27:41,142
+for fake fraud, and a payout system that incentivizes the whole
+
+431
+00:27:41,254 --> 00:27:44,555
+mess. Spotify's response is to raise prices and
+
+432
+00:27:44,699 --> 00:27:48,416
+add AI features. We're gonna talk about those AI features next.
+
+433
+00:27:48,945 --> 00:27:51,445
+Because they are something else. Every single day,
+
+434
+00:27:52,021 --> 00:27:55,787
+Spotify adds over 100,000 new tracks to its catalog.
+
+435
+00:27:56,075 --> 00:27:59,296
+100,000. Every day. That's more than one new
+
+436
+00:27:59,796 --> 00:28:03,061
+song per second. 24 hours a day, 7 days a week.
+
+437
+00:28:03,446 --> 00:28:07,003
+Do you know how many of those songs are made by humans playing instruments in
+
+438
+00:28:07,067 --> 00:28:10,689
+rooms? Nobody does. Spotify doesn't track
+
+439
+00:28:11,189 --> 00:28:14,887
+it. But independent estimates suggest that somewhere between 20% and 40%
+
+440
+00:28:15,160 --> 00:28:19,166
+of new uploads are now generated, at least in part, by AI.
+
+441
+00:28:19,871 --> 00:28:23,508
+Either fully AI-generated music, AI-assisted music
+
+442
+00:28:23,653 --> 00:28:27,675
+where the human role is essentially pressing generate, or AI-modified
+
+443
+00:28:28,175 --> 00:28:31,349
+existing music— sped up, Slowed down, remixed,
+
+444
+00:28:31,574 --> 00:28:35,157
+uploaded under fake artist names to siphon streams. Here's how the scam
+
+445
+00:28:35,205 --> 00:28:39,382
+works. Someone, usually operating out of a country with low labor
+
+446
+00:28:39,882 --> 00:28:43,865
+costs, uses an AI music generator like Suno or Udio to produce
+
+447
+00:28:44,365 --> 00:28:47,641
+hundreds of songs per day. These songs are not good. They're not meant
+
+448
+00:28:48,141 --> 00:28:51,320
+to be good. They're meant to be just good enough to slip into a mood
+
+449
+00:28:51,352 --> 00:28:53,907
+playlist. Lo-fi study beats.
+
+450
+00:28:54,630 --> 00:28:58,710
+Focus instrumental. Sleep sounds. Chill acoustic background.
+
+451
+00:28:59,224 --> 00:29:01,617
+You've seen these playlists, you've probably listened to them.
+
+452
+00:29:02,500 --> 00:29:06,436
+You didn't notice the artist names because you weren't paying attention. You just
+
+453
+00:29:06,936 --> 00:29:10,820
+wanted something in the background while you worked. The operator uploads
+
+454
+00:29:11,013 --> 00:29:14,258
+all 100 songs to Spotify under different fake artist
+
+455
+00:29:14,306 --> 00:29:17,550
+names. They create their own playlists, or pay
+
+456
+00:29:17,614 --> 00:29:21,325
+for placement on existing ones, and slot their AI tracks into
+
+457
+00:29:21,825 --> 00:29:25,559
+the rotation. Then they sit back and collect fractions of a cent per stream.
+
+458
+00:29:25,960 --> 00:29:29,905
+Multiplied by thousands of tracks, multiplied by millions
+
+459
+00:29:30,405 --> 00:29:34,042
+of playlist listeners. At scale, this is real money. A single
+
+460
+00:29:34,122 --> 00:29:37,971
+operator running 50 fake artist accounts, each generating
+
+461
+00:29:38,035 --> 00:29:41,274
+100,000 streams per month, is making something
+
+462
+00:29:41,338 --> 00:29:44,738
+like $7,500 a month. Per operator.
+
+463
+00:29:45,347 --> 00:29:48,683
+There are now thousands of these operators. The economics are too good to ignore.
+
+464
+00:29:49,052 --> 00:29:52,482
+And it gets worse. Spotify itself has been caught
+
+465
+00:29:52,982 --> 00:29:56,794
+doing this. In 2024, multiple investigations
+
+466
+00:29:56,810 --> 00:30:00,561
+revealed that Spotify's own editorial playlists, the ones
+
+467
+00:30:00,657 --> 00:30:03,719
+curated by Spotify staff, the ones that can make or
+
+468
+00:30:03,799 --> 00:30:08,095
+break a real artist's career, were stuffed with tracks from so-called
+
+469
+00:30:08,272 --> 00:30:12,023
+ghost artists. Artists with no online presence, no social
+
+470
+00:30:12,055 --> 00:30:15,421
+media, no concerts, no photos, no biography.
+
+471
+00:30:15,726 --> 00:30:18,964
+Just a name, a generic profile picture, and dozens of
+
+472
+00:30:19,012 --> 00:30:22,734
+tracks pumping into playlists with millions of followers. Why would Spotify
+
+473
+00:30:22,878 --> 00:30:26,378
+do this? Because they pay themselves for those streams.
+
+474
+00:30:26,875 --> 00:30:30,407
+The tracks are uploaded through distributors that Spotify either
+
+475
+00:30:30,568 --> 00:30:34,693
+owns or has financial relationships with. When Spotify's
+
+476
+00:30:35,193 --> 00:30:39,060
+editorial team places a ghost artist track in a flagship playlist,
+
+477
+00:30:39,253 --> 00:30:42,881
+the payout for that stream goes back to Spotify's bottom
+
+478
+00:30:42,929 --> 00:30:47,039
+line. They're laundering their own royalty payments. Spotify denied this,
+
+479
+00:30:47,199 --> 00:30:50,615
+of course. They said the artists were real, just private.
+
+480
+00:30:50,887 --> 00:30:54,766
+They said the tracks were licensed. They refused to name the artists.
+
+481
+00:30:55,039 --> 00:30:58,149
+They refused to provide evidence. They just denied,
+
+482
+00:30:58,726 --> 00:31:02,878
+and then quietly removed some of the most obvious offenders from their playlists,
+
+483
+00:31:02,990 --> 00:31:06,404
+and waited for the story to die. The result of all of this
+
+484
+00:31:06,853 --> 00:31:10,588
+is that Spotify is, increasingly, not a music streaming
+
+485
+00:31:10,668 --> 00:31:13,987
+service. It's an AI slop distribution platform
+
+486
+00:31:14,211 --> 00:31:18,411
+with a music streaming service attached. The real artists are competing
+
+487
+00:31:18,523 --> 00:31:21,795
+for attention against an infinite flood of machine-generated
+
+488
+00:31:21,827 --> 00:31:25,484
+noise. The payout pool is being drained by bad actors.
+
+489
+00:31:25,917 --> 00:31:29,093
+The editorial playlists that used to be a path to discovery
+
+490
+00:31:29,206 --> 00:31:32,879
+for real artists are increasingly populated by ghost
+
+491
+00:31:33,379 --> 00:31:37,146
+tracks. And here's the most insidious part. The flood of new tracks,
+
+492
+00:31:37,451 --> 00:31:40,755
+100,000 per day, mostly garbage, is used
+
+493
+00:31:41,255 --> 00:31:44,814
+by Spotify as a marketing talking point. Over 100,000 new
+
+494
+00:31:44,862 --> 00:31:48,279
+songs added every day, they say. The largest catalog
+
+495
+00:31:48,295 --> 00:31:51,744
+in music history. Yes. The largest catalog in music
+
+496
+00:31:52,244 --> 00:31:56,171
+history. Most of it trash. Most of it not made by humans.
+
+497
+00:31:56,396 --> 00:32:00,823
+Most of it never listened to by anyone. You're paying for that. Your subscription
+
+498
+00:32:00,888 --> 00:32:05,283
+fee is paying for the storage, the bandwidth, the algorithmic overhead
+
+499
+00:32:05,783 --> 00:32:09,342
+of cataloging and processing 100,000 new songs per day,
+
+500
+00:32:09,775 --> 00:32:13,384
+of which maybe 1% will ever be played by a real
+
+501
+00:32:13,400 --> 00:32:16,579
+person. The other 99% is digital pollution.
+
+502
+00:32:17,398 --> 00:32:20,673
+And Spotify counts it as a feature. If that makes you angry,
+
+503
+00:32:20,946 --> 00:32:25,121
+wait until you hear what they spent a billion dollars on next. In February
+
+504
+00:32:25,621 --> 00:32:29,713
+2019, Spotify bought Gimlet Media for $230
+
+505
+00:32:30,213 --> 00:32:33,823
+million. And Anchor, a podcast hosting platform,
+
+506
+00:32:34,032 --> 00:32:37,757
+for $150 million. Total: just
+
+507
+00:32:37,805 --> 00:32:41,320
+under $400 million. In one day to
+
+508
+00:32:41,416 --> 00:32:44,737
+enter the podcast business. This was the start of what would become a
+
+509
+00:32:44,850 --> 00:32:48,700
+billion-dollar bet. Over the next 4 years, Spotify spent
+
+510
+00:32:48,796 --> 00:32:52,229
+over a billion dollars acquiring podcast companies and
+
+511
+00:32:52,261 --> 00:32:56,032
+signing exclusive deals. They bought The Ringer from Bill Simmons
+
+512
+00:32:56,256 --> 00:32:59,754
+for nearly $200 million. They signed
+
+513
+00:32:59,786 --> 00:33:03,604
+Joe Rogan to a multi-year exclusive deal reportedly worth
+
+514
+00:33:03,780 --> 00:33:07,213
+over $200 million. Later renewed for a reported
+
+515
+00:33:07,326 --> 00:33:10,871
+$250 million. They signed
+
+516
+00:33:10,919 --> 00:33:14,256
+Meghan Markle to a deal reportedly worth $20 million,
+
+517
+00:33:14,785 --> 00:33:18,683
+which produced 12 episodes and then collapsed in mutual recrimination.
+
+518
+00:33:19,518 --> 00:33:22,373
+They signed the Obamas. They signed Kim Kardashian.
+
+519
+00:33:22,886 --> 00:33:26,159
+They bought Parcast. They bought Megaphone. They built a
+
+520
+00:33:26,659 --> 00:33:30,442
+podcast empire. The strategy made sense on paper. Spotify wanted
+
+521
+00:33:30,942 --> 00:33:34,418
+to be the default audio platform. Not just music— audio.
+
+522
+00:33:34,515 --> 00:33:38,377
+And podcasts had something music didn't: music royalties ate
+
+523
+00:33:38,877 --> 00:33:42,238
+most of the revenue. Podcasts were much cheaper. If Spotify
+
+524
+00:33:42,511 --> 00:33:45,940
+owned the podcast, they didn't have to share the revenue with labels.
+
+525
+00:33:46,213 --> 00:33:49,466
+They could keep it all. And podcasts had something else:
+
+526
+00:33:49,898 --> 00:33:53,247
+they were engaged. People who listened to podcasts listened for
+
+527
+00:33:53,488 --> 00:33:57,189
+hours per week. Habitual, loyal, captivated. If Spotify
+
+528
+00:33:57,689 --> 00:34:00,475
+could own that engagement, they'd own the listener. So they spent.
+
+529
+00:34:00,860 --> 00:34:04,066
+And spent. And spent. And it didn't work.
+
+530
+00:34:04,723 --> 00:34:08,699
+Here's what happened. Joe Rogan's exclusive deal drove some listeners
+
+531
+00:34:08,731 --> 00:34:12,306
+to Spotify. But many of his fans, the ones who already used
+
+532
+00:34:12,482 --> 00:34:16,185
+Apple Podcasts or other apps, resented being forced to switch.
+
+533
+00:34:16,906 --> 00:34:20,000
+A meaningful chunk of his audience just stopped listening rather
+
+534
+00:34:20,016 --> 00:34:23,767
+than migrate. And then, when Spotify's exclusivity
+
+535
+00:34:23,864 --> 00:34:27,585
+period ended, and Rogan went back to being available everywhere,
+
+536
+00:34:27,954 --> 00:34:31,212
+the supposed benefit of the exclusive deal evaporated.
+
+537
+00:34:31,645 --> 00:34:35,882
+Spotify paid a quarter of a billion dollars for temporary exclusivity
+
+538
+00:34:36,075 --> 00:34:40,152
+that didn't even last the full contract. Meghan Markle's deal produced
+
+539
+00:34:40,652 --> 00:34:43,458
+a single season of a podcast called Archetypes,
+
+540
+00:34:43,779 --> 00:34:47,358
+which got middling reviews and then was unceremoniously
+
+541
+00:34:47,454 --> 00:34:51,065
+dumped when the deal fell apart. She and Spotify's executive
+
+542
+00:34:51,565 --> 00:34:54,662
+allegedly didn't get along. A Spotify executive publicly
+
+543
+00:34:54,678 --> 00:34:58,197
+called her and Harry grifters. That's a Spotify executive
+
+544
+00:34:58,872 --> 00:35:02,294
+talking about Spotify's own signing. That's how well that
+
+545
+00:35:02,407 --> 00:35:06,167
+billion dollars was spent. The ringer has been successful in some
+
+546
+00:35:06,667 --> 00:35:10,698
+respects. Bill Simmons is a shrewd operator. But it hasn't moved the
+
+547
+00:35:11,198 --> 00:35:14,650
+needle for Spotify's bottom line. Gimlet, which was supposed
+
+548
+00:35:14,682 --> 00:35:17,687
+to be the HBO of podcasts, has been largely gutted.
+
+549
+00:35:18,008 --> 00:35:22,021
+Several of their flagship shows were canceled, Talented producers left.
+
+550
+00:35:22,550 --> 00:35:26,140
+The promise of high-quality narrative podcasting was sacrificed
+
+551
+00:35:26,316 --> 00:35:30,179
+on the altar of engagement metrics. And then, there's the broader
+
+552
+00:35:30,679 --> 00:35:34,169
+strategic failure. Spotify tried to make podcasting work
+
+553
+00:35:34,669 --> 00:35:37,311
+the way music works— centralized, algorithmic,
+
+554
+00:35:37,808 --> 00:35:41,221
+exclusive. But podcasting was built on RSS— open,
+
+555
+00:35:41,478 --> 00:35:44,555
+distributed, platform-agnostic. Listeners had a habit of
+
+556
+00:35:44,587 --> 00:35:47,488
+using whatever app they preferred. Apple Podcasts,
+
+557
+00:35:47,713 --> 00:35:51,367
+Overcast, Pocket Casts. They didn't want to be locked into Spotify.
+
+558
+00:35:51,880 --> 00:35:55,375
+And creators didn't want to be locked in either. The Joe Rogan
+
+559
+00:35:55,423 --> 00:35:59,126
+exclusivity backfired because creators saw what happened
+
+560
+00:35:59,174 --> 00:36:02,476
+when you signed with Spotify. You got paid, but you lost
+
+561
+00:36:02,976 --> 00:36:07,045
+your audience. By 2023, Spotify was quietly retreating
+
+562
+00:36:07,109 --> 00:36:11,052
+from podcasting. They canceled shows. They laid off staff,
+
+563
+00:36:11,212 --> 00:36:14,226
+including a significant portion of their podcast division.
+
+564
+00:36:14,579 --> 00:36:18,076
+They shut down Parcast. They took shows off exclusive.
+
+565
+00:36:18,414 --> 00:36:21,496
+They restructured their deals. They wrote down the value of
+
+566
+00:36:21,544 --> 00:36:24,563
+their podcast acquisitions. Meaning, in plain
+
+567
+00:36:24,691 --> 00:36:29,203
+English, they admitted they overpaid. Here's the brutal truth: Spotify
+
+568
+00:36:29,703 --> 00:36:33,763
+spent over a billion dollars to enter a business that, even at its peak,
+
+569
+00:36:34,164 --> 00:36:37,231
+contributed only a small fraction of their revenue.
+
+570
+00:36:37,375 --> 00:36:41,180
+The podcast business still doesn't generate meaningful profit
+
+571
+00:36:41,213 --> 00:36:44,889
+for Spotify. And in the process, they alienated listeners
+
+572
+00:36:44,921 --> 00:36:48,678
+who didn't want to switch apps, alienated creators who didn't
+
+573
+00:36:48,694 --> 00:36:51,970
+want to be locked in, and burned through capital that could have
+
+574
+00:36:51,986 --> 00:36:55,213
+gone to— oh, I don't know— paying artists
+
+575
+00:36:55,342 --> 00:36:58,890
+more. But the billion dollars is gone. The shows
+
+576
+00:36:59,390 --> 00:37:02,952
+are canceled. The deals have been restructured. And Spotify has
+
+577
+00:37:03,048 --> 00:37:05,922
+moved on to their next pivot: audiobooks. Oh,
+
+578
+00:37:06,340 --> 00:37:09,888
+audiobooks. Where do I even start with audiobooks? In late
+
+579
+00:37:10,388 --> 00:37:14,095
+2023, Spotify announced that Premium subscribers would get
+
+580
+00:37:14,595 --> 00:37:18,220
+15 hours of audiobooks per month included with their subscription.
+
+581
+00:37:18,559 --> 00:37:21,894
+Great news, right? Audible charges $15 a
+
+582
+00:37:22,394 --> 00:37:26,086
+month for one credit. Spotify is throwing audiobooks into your existing
+
+583
+00:37:26,118 --> 00:37:29,766
+subscription. What's not to like? Here's what's not to like:
+
+584
+00:37:30,152 --> 00:37:34,250
+15 hours. Per month. That's it. A typical audiobook
+
+585
+00:37:34,282 --> 00:37:37,866
+is 10 to 15 hours. So you get one audiobook per
+
+586
+00:37:38,366 --> 00:37:42,192
+month, maybe 2 short ones if you're lucky. After that, you have to buy more,
+
+587
+00:37:42,561 --> 00:37:45,709
+and the buying more is where it gets ugly. When you run out of your
+
+588
+00:37:45,757 --> 00:37:49,194
+15 hours, Spotify prompts you to buy more hours.
+
+589
+00:37:49,531 --> 00:37:52,229
+They sell 10-hour top-ups for around $13,
+
+590
+00:37:53,144 --> 00:37:56,854
+which is, conveniently, almost exactly what Audible charges for
+
+591
+00:37:57,354 --> 00:38:00,837
+a credit. So Spotify didn't replace Audible. They created a
+
+592
+00:38:00,853 --> 00:38:04,418
+worse Audible, with a worse selection, baked into your music
+
+593
+00:38:04,918 --> 00:38:09,103
+subscription. But here's the real trick. The reason Spotify added
+
+594
+00:38:09,199 --> 00:38:12,612
+audiobooks wasn't to give you a feature. It was to justify
+
+595
+00:38:12,805 --> 00:38:18,365
+the price hike. Remember the April 2024 hike? From $10.99
+
+596
+00:38:18,590 --> 00:38:22,804
+to $11.99? Spotify explicitly cited
+
+597
+00:38:22,916 --> 00:38:26,522
+the inclusion of audiobooks as the reason. They added a feature
+
+598
+00:38:27,022 --> 00:38:30,865
+most users don't use, and then used that feature as the justification to
+
+599
+00:38:31,009 --> 00:38:34,618
+raise prices on everyone. Including the people who don't use
+
+600
+00:38:35,118 --> 00:38:38,872
+it. It's a textbook bundling trick. You add a low-value component
+
+601
+00:38:39,372 --> 00:38:42,773
+to a bundle, raise the price of the bundle, and pocket the difference
+
+602
+00:38:43,273 --> 00:38:47,348
+from the users who never use the new component. Most Spotify subscribers
+
+603
+00:38:47,685 --> 00:38:50,880
+don't listen to audiobooks. Spotify knows this.
+
+604
+00:38:51,955 --> 00:38:55,535
+But they get to charge everyone an extra dollar or 2 per month because
+
+605
+00:38:55,567 --> 00:38:58,762
+the feature is included. And the audiobook selection
+
+606
+00:38:58,794 --> 00:39:03,092
+itself is rough. Spotify has around 250,000
+
+607
+00:39:03,252 --> 00:39:06,538
+audiobooks. Audible has over 700,000.
+
+608
+00:39:07,099 --> 00:39:10,930
+The Spotify catalog is missing huge numbers of major titles.
+
+609
+00:39:11,283 --> 00:39:14,649
+You'll search for a book you want, find it's not there, and be told
+
+610
+00:39:15,149 --> 00:39:18,753
+to either buy it separately at full retail price, or wait for Spotify
+
+611
+00:39:18,977 --> 00:39:22,440
+to maybe add it eventually. And the authors are getting screwed too.
+
+612
+00:39:22,841 --> 00:39:26,255
+In 2024, the Authors Guild and several prominent
+
+613
+00:39:26,415 --> 00:39:29,974
+authors filed formal complaints against Spotify
+
+614
+00:39:30,343 --> 00:39:34,256
+over the audiobook bundling. The issue was this: Spotify was
+
+615
+00:39:34,288 --> 00:39:38,186
+paying audiobook royalties based on a formula that essentially
+
+616
+00:39:38,218 --> 00:39:41,843
+treated audiobook listening as a fraction of total listening time,
+
+617
+00:39:42,308 --> 00:39:45,821
+similar to how music royalties work. But audiobooks
+
+618
+00:39:45,901 --> 00:39:49,430
+aren't music. A typical audiobook listener spends hours
+
+619
+00:39:49,446 --> 00:39:52,735
+on a single book. The way Spotify's payout math worked,
+
+620
+00:39:52,959 --> 00:39:57,306
+authors were getting fractions of a cent per hour of listening, which translated
+
+621
+00:39:57,806 --> 00:40:01,931
+to tiny, tiny payouts. For a book that took an author years
+
+622
+00:40:01,963 --> 00:40:05,418
+to write, and that the audiobook narrator spent weeks
+
+623
+00:40:05,918 --> 00:40:09,017
+recording, the royalty payout under Spotify's system might
+
+624
+00:40:09,517 --> 00:40:12,761
+be a few dollars for thousands of listening hours. Audible pays
+
+625
+00:40:12,954 --> 00:40:16,232
+authors a flat, credit-based royalty that's much more generous.
+
+626
+00:40:16,602 --> 00:40:20,008
+Spotify's system is by comparison an insult. And there's another
+
+627
+00:40:20,024 --> 00:40:22,917
+wrinkle. Spotify acquired Findaway,
+
+628
+00:40:23,254 --> 00:40:26,881
+an audiobook distribution platform, in 2022. That gave
+
+629
+00:40:26,929 --> 00:40:30,807
+them access to a huge catalog of audiobooks. But it also gave
+
+630
+00:40:31,307 --> 00:40:34,124
+them leverage to dictate terms to authors and narrators.
+
+631
+00:40:34,461 --> 00:40:37,922
+Findaway narrators, who are paid a flat fee to record books,
+
+632
+00:40:38,627 --> 00:40:41,961
+found that their work was being used to drive Spotify
+
+633
+00:40:42,025 --> 00:40:45,422
+subscriptions without any meaningful additional compensation.
+
+634
+00:40:45,935 --> 00:40:49,589
+The narrator who spent 40 hours recording a book might see $10
+
+635
+00:40:50,118 --> 00:40:53,739
+in additional royalties from Spotify's bundling, while Spotify
+
+636
+00:40:53,851 --> 00:40:57,267
+used their work as a marketing talking point to justify
+
+637
+00:40:57,459 --> 00:41:01,297
+a price hike. So let's recap. Spotify added
+
+638
+00:41:01,473 --> 00:41:05,471
+audiobooks to justify a price increase. Most subscribers don't
+
+639
+00:41:05,504 --> 00:41:08,843
+use the audiobook feature. The audiobook selection is much
+
+640
+00:41:08,859 --> 00:41:12,858
+smaller than Audible's. Authors get paid less under Spotify's system
+
+641
+00:41:13,130 --> 00:41:16,438
+than under Audible's. Narrators get paid almost
+
+642
+00:41:16,938 --> 00:41:20,260
+nothing extra. And Spotify gets to keep the additional revenue from
+
+643
+00:41:20,276 --> 00:41:23,294
+the price hike bundling. They call it bundling.
+
+644
+00:41:24,370 --> 00:41:27,949
+I have a different word for it. But you've probably noticed something.
+
+645
+00:41:28,527 --> 00:41:31,914
+I keep mentioning that Spotify still doesn't have lossless audio.
+
+646
+00:41:32,219 --> 00:41:35,301
+Let's talk about that broken promise next. Because it's been
+
+647
+00:41:35,366 --> 00:41:37,725
+5 years. In February 2021,
+
+648
+00:41:38,014 --> 00:41:41,225
+Spotify announced Spotify HiFi. The pitch was
+
+649
+00:41:41,725 --> 00:41:45,687
+simple: lossless, CD-quality audio for premium subscribers.
+
+650
+00:41:46,105 --> 00:41:49,299
+Higher bitrate, better sound, no compression artifacts.
+
+651
+00:41:49,556 --> 00:41:52,832
+Coming later in 2021. It's 2026.
+
+652
+00:41:53,169 --> 00:41:56,638
+HiFi still doesn't exist. 5 years. 5 years
+
+653
+00:41:57,138 --> 00:42:00,877
+of a promised feature that has never shipped. Spotify has mentioned HiFi in
+
+654
+00:42:00,957 --> 00:42:04,201
+exactly zero product launches since the original
+
+655
+00:42:04,249 --> 00:42:08,135
+announcement. They've removed references to it from their website.
+
+656
+00:42:08,183 --> 00:42:11,411
+They've stopped responding to questions about it. Their customer
+
+657
+00:42:11,911 --> 00:42:15,409
+support, when asked, gives vague non-answers like,
+
+658
+00:42:15,425 --> 00:42:19,311
+we're still exploring options. In the same 5 years that Spotify
+
+659
+00:42:19,423 --> 00:42:22,619
+has failed to ship lossless audio, Apple Music shipped it.
+
+660
+00:42:23,116 --> 00:42:25,910
+For free. Included in the standard subscription.
+
+661
+00:42:26,263 --> 00:42:29,475
+No extra charge. Tidal built their entire brand
+
+662
+00:42:29,975 --> 00:42:33,328
+around it. Amazon Music Unlimited added it at no extra cost.
+
+663
+00:42:33,553 --> 00:42:37,358
+YouTube Music added it. Qobuz has had it for a decade. Every major
+
+664
+00:42:37,407 --> 00:42:41,437
+music streaming service on Earth offers lossless audio. Except Spotify.
+
+665
+00:42:41,822 --> 00:42:45,547
+Why? Here's the honest answer: Spotify can't afford to ship
+
+666
+00:42:46,047 --> 00:42:48,962
+it. Not because lossless audio is expensive. It isn't,
+
+667
+00:42:48,978 --> 00:42:51,799
+not really. The bandwidth costs are manageable.
+
+668
+00:42:51,943 --> 00:42:55,935
+But because Spotify's entire infrastructure was built around aggressive
+
+669
+00:42:56,095 --> 00:42:59,542
+audio compression. Their Ogg Vorbis codec at 96
+
+670
+00:43:00,042 --> 00:43:04,062
+to 320 kilobits per second was designed to minimize bandwidth costs
+
+671
+00:43:04,562 --> 00:43:07,893
+at scale. Serving billions of streams per day at 320
+
+672
+00:43:08,393 --> 00:43:11,981
+kilobits per second costs them a certain amount of money. Serving those same streams
+
+673
+00:43:12,481 --> 00:43:15,796
+at 1.4 megabits, CD quality, would cost them roughly
+
+674
+00:43:15,812 --> 00:43:19,402
+4 times as much in bandwidth. And Spotify operates on thin
+
+675
+00:43:19,434 --> 00:43:23,408
+margins. Or at least, they claim to. The other reason is
+
+676
+00:43:23,520 --> 00:43:27,045
+strategic. Spotify's not stupid. They know
+
+677
+00:43:27,061 --> 00:43:30,603
+that if they ship lossless audio, they need to either charge more
+
+678
+00:43:30,715 --> 00:43:34,705
+for it, which would mean another price hike, which would mean another round
+
+679
+00:43:34,737 --> 00:43:38,006
+of bad press, or include it in the existing plan,
+
+680
+00:43:38,342 --> 00:43:41,963
+which would mean absorbing the bandwidth cost. So they've stalled.
+
+681
+00:43:42,428 --> 00:43:46,005
+They announced HiFi in 2021, to keep up with Apple's
+
+682
+00:43:46,037 --> 00:43:49,202
+announcement that Apple Music was going lossless.
+
+683
+00:43:49,572 --> 00:43:52,914
+They never had to ship it because their subscribers didn't
+
+684
+00:43:52,946 --> 00:43:56,545
+leave in meaningful numbers. Most people can't tell the
+
+685
+00:43:56,561 --> 00:44:00,370
+difference between 320 kbps and lossless on
+
+686
+00:44:00,418 --> 00:44:04,033
+Bluetooth earbuds anyway. So Spotify quietly killed
+
+687
+00:44:04,533 --> 00:44:07,504
+the project and never told anyone. But the promise is still out there.
+
+688
+00:44:08,130 --> 00:44:11,455
+The 2021 announcement is still in archives. People still
+
+689
+00:44:11,648 --> 00:44:14,358
+ask about HiFi in Spotify community forums.
+
+690
+00:44:14,727 --> 00:44:18,319
+Spotify still ignores them. 5 years. This is the kind of
+
+691
+00:44:18,819 --> 00:44:22,681
+small, specific, infuriating failure that defines modern Spotify.
+
+692
+00:44:23,355 --> 00:44:26,995
+It's not a single catastrophic mistake. It's a thousand small ones.
+
+693
+00:44:27,220 --> 00:44:31,357
+A promised feature that never shipped. A price hike that wasn't justified.
+
+694
+00:44:31,485 --> 00:44:35,398
+A royalty cut disguised as fraud prevention. A podcast
+
+695
+00:44:35,898 --> 00:44:39,039
+empire that collapsed. An audiobook pivot that nobody asked for.
+
+696
+00:44:39,473 --> 00:44:42,504
+Each one, in isolation, is a minor story.
+
+697
+00:44:42,761 --> 00:44:46,226
+Together they form a pattern. And the pattern is this: Spotify
+
+698
+00:44:46,290 --> 00:44:50,252
+takes more from you, gives less to artists, and invests the difference
+
+699
+00:44:50,300 --> 00:44:54,086
+in whatever the next big pivot is supposed to be. Podcasts,
+
+700
+00:44:54,311 --> 00:44:57,695
+audiobooks, AI. Anything except the core product,
+
+701
+00:44:57,759 --> 00:45:01,016
+the music app you pay for, but maybe you don't care about hi-fi.
+
+702
+00:45:01,946 --> 00:45:05,798
+Maybe you don't care about podcasts. Maybe you just want to know why
+
+703
+00:45:06,298 --> 00:45:09,748
+your Discover Weekly has gotten worse. Let's talk about
+
+704
+00:45:09,797 --> 00:45:13,105
+that. When was the last time Discover Weekly introduced you
+
+705
+00:45:13,605 --> 00:45:16,686
+to an artist you'd never heard of, who you actually loved,
+
+706
+00:45:16,798 --> 00:45:20,218
+who you then went and followed, and whose music you then sought out on
+
+707
+00:45:20,315 --> 00:45:23,591
+your own? Take your time. For most of you, the answer is,
+
+708
+00:45:24,185 --> 00:45:27,380
+I can't remember. Maybe years ago. Maybe never.
+
+709
+00:45:27,702 --> 00:45:31,459
+Here's why. When Discover Weekly launched in 2015,
+
+710
+00:45:31,716 --> 00:45:35,249
+It was genuinely magical. The algorithm would analyze your
+
+711
+00:45:35,749 --> 00:45:39,664
+listening history, find patterns, and recommend songs from artists
+
+712
+00:45:40,164 --> 00:45:44,192
+you'd never heard but who matched your taste. People would post their Discover
+
+713
+00:45:44,256 --> 00:45:47,949
+Weekly on social media. It was a feature. A real feature.
+
+714
+00:45:48,367 --> 00:45:51,016
+Something Spotify did that nobody else could do.
+
+715
+00:45:51,305 --> 00:45:55,078
+Fast forward to 2026. Discover Weekly is mostly the
+
+716
+00:45:55,578 --> 00:45:58,654
+same songs you already listen to, Slightly remixed,
+
+717
+00:45:58,864 --> 00:46:02,955
+with one or two unfamiliar tracks buried at the bottom. Release Radar
+
+718
+00:46:03,165 --> 00:46:06,819
+is dominated by major label releases. Your daily mixes have
+
+719
+00:46:06,867 --> 00:46:09,602
+devolved into the same 50 songs on rotation.
+
+720
+00:46:09,893 --> 00:46:13,987
+Spotify's algorithmic recommendations have, by almost every user's
+
+721
+00:46:14,068 --> 00:46:18,215
+anecdotal experience, gotten worse. Why? Here's the structural
+
+722
+00:46:18,263 --> 00:46:22,226
+reason: Spotify's recommendation algorithm isn't purely
+
+723
+00:46:22,726 --> 00:46:26,884
+designed to find you new music you'd love. It's designed to maximize total
+
+724
+00:46:26,980 --> 00:46:30,882
+listening time. Those sound like the same goal. They're not.
+
+725
+00:46:31,091 --> 00:46:34,816
+If Spotify wanted to find you new music you'd love, they'd recommend
+
+726
+00:46:34,928 --> 00:46:38,637
+unfamiliar tracks and accept that some of those wouldn't click,
+
+727
+00:46:39,167 --> 00:46:42,555
+leading you to skip, leading to a temporary dip in engagement.
+
+728
+00:46:42,957 --> 00:46:46,377
+They don't do that. Instead, the algorithm plays it safe.
+
+729
+00:46:46,826 --> 00:46:50,951
+It recommends tracks similar to what you already listen to, Because those
+
+730
+00:46:50,983 --> 00:46:54,333
+tracks have a high probability of being played through
+
+731
+00:46:54,509 --> 00:46:58,404
+to the end. More plays through to the end means more listening time,
+
+732
+00:46:58,661 --> 00:47:02,860
+more streams, more revenue. The algorithm is optimizing for engagement,
+
+733
+00:47:03,229 --> 00:47:07,060
+not discovery. And engagement on a per-user basis is
+
+734
+00:47:07,092 --> 00:47:10,490
+maximized by playing it safe. There's also the editorial layer.
+
+735
+00:47:10,842 --> 00:47:14,224
+Spotify's editorial playlists— Rap Caviar, Today's Top
+
+736
+00:47:14,724 --> 00:47:18,151
+Hits, Hot Country, Rock Classics— are curated by Spotify staff.
+
+737
+00:47:18,456 --> 00:47:22,214
+But those staff are heavily influenced by major label priorities.
+
+738
+00:47:22,568 --> 00:47:26,615
+Major labels have teams whose entire job is to pitch Spotify
+
+739
+00:47:26,808 --> 00:47:30,277
+editors for playlist placement. They send gifts, they have
+
+740
+00:47:30,777 --> 00:47:34,051
+relationships, they have leverage. Independent artists don't
+
+741
+00:47:34,551 --> 00:47:38,419
+have any of that. So the playlists that drive discovery are dominated
+
+742
+00:47:38,467 --> 00:47:42,033
+by major label artists. The algorithmic playlists are
+
+743
+00:47:42,065 --> 00:47:45,582
+tuned for engagement rather than discovery. And the long
+
+744
+00:47:45,679 --> 00:47:49,437
+tail of independent music, which Spotify claims to champion,
+
+745
+00:47:49,854 --> 00:47:53,484
+is buried under a pile of major label priorities and
+
+746
+00:47:53,984 --> 00:47:57,837
+safe recommendations. And then there's Discovery Mode, which we covered earlier.
+
+747
+00:47:58,222 --> 00:48:01,675
+The payola scheme. Major labels can opt their tracks
+
+748
+00:48:02,175 --> 00:48:06,172
+into Discovery Mode, accept a lower royalty rate, and get algorithmic
+
+749
+00:48:06,253 --> 00:48:09,899
+boosts. Independent artists can technically do the same,
+
+750
+00:48:09,947 --> 00:48:12,998
+but the lower royalty rate, hurts them disproportionately.
+
+751
+00:48:13,400 --> 00:48:17,286
+The result? The algorithm is even more skewed toward major label
+
+752
+00:48:17,479 --> 00:48:20,980
+artists, because they're the ones who can afford to pay for placement.
+
+753
+00:48:21,269 --> 00:48:25,364
+There's another problem. Spotify's algorithm has a feedback loop
+
+754
+00:48:25,864 --> 00:48:30,070
+problem. If you listen to a track once, even accidentally, even because
+
+755
+00:48:30,086 --> 00:48:33,571
+you skipped to it, the algorithm treats that as a positive signal.
+
+756
+00:48:34,117 --> 00:48:37,361
+It then recommends more tracks like that, which you might
+
+757
+00:48:37,473 --> 00:48:41,038
+listen to, which reinforces the signal, which leads to
+
+758
+00:48:41,538 --> 00:48:45,212
+more recommendations of the same kind. Your recommendations can drift
+
+759
+00:48:45,712 --> 00:48:49,804
+in directions you never intended, based on a single accidental listen.
+
+760
+00:48:50,318 --> 00:48:53,609
+This is why your daily mix sometimes looks like it belongs to a
+
+761
+00:48:54,109 --> 00:48:58,009
+completely different person. The algorithm got confused by a stray listen
+
+762
+00:48:58,201 --> 00:49:02,247
+and decided you must be a fan of, I don't know, German techno.
+
+763
+00:49:02,536 --> 00:49:05,667
+And now you can't get rid of it. And Spotify
+
+764
+00:49:06,167 --> 00:49:09,536
+doesn't give you good tools to fix this. There's no reset my
+
+765
+00:49:09,745 --> 00:49:13,309
+recommendations button. There's no I don't like this button on
+
+766
+00:49:13,357 --> 00:49:16,954
+the home screen the way there is on YouTube. You can block an artist,
+
+767
+00:49:17,227 --> 00:49:20,679
+but you can't tell the algorithm why you didn't like a particular
+
+768
+00:49:21,179 --> 00:49:25,046
+track. You're stuck with what it thinks of you. The fundamental issue is
+
+769
+00:49:25,094 --> 00:49:29,075
+that Spotify's algorithm isn't working for you. It's working
+
+770
+00:49:29,268 --> 00:49:32,847
+for Spotify. Its job is to maximize your listening
+
+771
+00:49:32,879 --> 00:49:36,635
+time, which maximizes their revenue, which they then use
+
+772
+00:49:37,135 --> 00:49:40,551
+to pay artists less per stream while raising your subscription price.
+
+773
+00:49:41,305 --> 00:49:44,884
+The algorithm is a machine for extracting value from your attention.
+
+774
+00:49:45,494 --> 00:49:48,928
+It just happens to play music while it does it. You'd think,
+
+775
+00:49:49,153 --> 00:49:52,057
+given all of this, that Spotify would at least be cheap.
+
+776
+00:49:52,699 --> 00:49:56,519
+Right? Wrong. They're the most expensive mainstream music service.
+
+777
+00:49:57,032 --> 00:50:00,560
+And their biggest competitor pays artists twice as much per
+
+778
+00:50:01,060 --> 00:50:04,297
+stream. Let's talk about Apple Music. Apple Music pays
+
+779
+00:50:04,473 --> 00:50:08,258
+artists roughly double what Spotify pays per stream. Let me
+
+780
+00:50:08,758 --> 00:50:12,523
+just say that again. Apple Music pays artists roughly double what
+
+781
+00:50:12,571 --> 00:50:16,773
+Spotify pays per stream. The widely cited numbers are Spotify,
+
+782
+00:50:17,158 --> 00:50:20,589
+3/10 of a cent to 5/10 of a cent per stream. Apple Music,
+
+783
+00:50:20,766 --> 00:50:24,726
+7/10 of a cent to 1 cent per stream. Apple pays twice
+
+784
+00:50:24,790 --> 00:50:28,124
+as much. And their subscription price is, in most
+
+785
+00:50:28,624 --> 00:50:32,693
+markets, the same as Spotify's. Or, after Spotify's 2025
+
+786
+00:50:32,709 --> 00:50:36,476
+and 2026 hikes, cheaper. Why? Because Apple doesn't
+
+787
+00:50:36,976 --> 00:50:40,051
+need Spotify to make money. Apple makes its money selling iPhones.
+
+788
+00:50:40,468 --> 00:50:44,267
+Apple Music exists to make the iPhone ecosystem more attractive.
+
+789
+00:50:44,491 --> 00:50:47,264
+It's a value-add, a loss leader in some quarters.
+
+790
+00:50:47,922 --> 00:50:51,577
+Apple can afford to pay artists more per stream because Apple
+
+791
+00:50:51,689 --> 00:50:55,103
+doesn't need Apple Music to be massively profitable on
+
+792
+00:50:55,135 --> 00:50:58,421
+its own. Own. The profitability comes from the iPhone you bought
+
+793
+00:50:58,437 --> 00:51:02,524
+to use Apple Music on. Spotify, on the other hand, is just
+
+794
+00:51:03,024 --> 00:51:06,322
+Spotify. They don't sell phones, they don't sell laptops,
+
+795
+00:51:06,611 --> 00:51:10,217
+they don't have a hardware business subsidizing their software business.
+
+796
+00:51:10,457 --> 00:51:13,983
+Every dollar Spotify pays to artists is a dollar
+
+797
+00:51:14,483 --> 00:51:18,214
+that doesn't go to Spotify's profit margin. So they squeeze. And it's not
+
+798
+00:51:18,714 --> 00:51:21,901
+just the per-stream payout. Apple Music has shipped feature after
+
+799
+00:51:22,401 --> 00:51:26,135
+feature that Spotify hasn't. Lossless audio, Spatial audio with
+
+800
+00:51:26,167 --> 00:51:30,344
+Dolby Atmos. Lyrics that scroll in real time. Live lyrics
+
+801
+00:51:30,844 --> 00:51:34,375
+that you can sing along to. Apple Music Sing, which lets you mute the vocals
+
+802
+00:51:34,440 --> 00:51:38,022
+and karaoke any song. All included in the base subscription.
+
+803
+00:51:38,279 --> 00:51:42,118
+All free. Spotify has, in the same period, raised prices
+
+804
+00:51:42,230 --> 00:51:45,427
+4 times, added a podcast empire that they then had to
+
+805
+00:51:45,443 --> 00:51:48,543
+write down, forced an audiobook bundle on users
+
+806
+00:51:48,575 --> 00:51:52,415
+who didn't want it, and shipped an AI DJ that nobody asked
+
+807
+00:51:52,431 --> 00:51:56,190
+for. They have not shipped lossless. They have not shipped spatial
+
+808
+00:51:56,368 --> 00:52:00,096
+audio. They have not shipped Apple Music Sing, but they did add
+
+809
+00:52:00,596 --> 00:52:03,482
+an AI DJ. So here's the brutal competitive reality.
+
+810
+00:52:03,739 --> 00:52:06,799
+Spotify is being squeezed from above and below.
+
+811
+00:52:07,170 --> 00:52:10,535
+From above, Apple Music has the resources of Apple behind it.
+
+812
+00:52:11,035 --> 00:52:14,731
+Apple can outspend Spotify on licensing, on features, on marketing.
+
+813
+00:52:15,070 --> 00:52:18,848
+Apple can afford to ship lossless at no extra cost because
+
+814
+00:52:19,026 --> 00:52:22,049
+Apple can absorb the bandwidth hit. Spotify can't.
+
+815
+00:52:22,302 --> 00:52:25,318
+From below, YouTube Music is bundled with YouTube Premium,
+
+816
+00:52:25,671 --> 00:52:29,490
+which means millions of subscribers get YouTube Music essentially
+
+817
+00:52:29,586 --> 00:52:33,661
+for free as part of a broader subscription. Amazon Music is
+
+818
+00:52:33,693 --> 00:52:37,416
+bundled with Prime. Spotify is the only major music service
+
+819
+00:52:37,448 --> 00:52:41,523
+that has to stand on its own. This is why Spotify is raising
+
+820
+00:52:41,636 --> 00:52:45,246
+prices. They have no other lever. They can't subsidize from a
+
+821
+00:52:45,746 --> 00:52:49,064
+hardware business. They can't bundle with a broader subscription
+
+822
+00:52:49,176 --> 00:52:52,626
+that has nothing to do with music. They have to extract
+
+823
+00:52:52,643 --> 00:52:56,687
+more from their existing subscribers because their existing subscribers
+
+824
+00:52:56,783 --> 00:52:59,961
+are their only revenue source. And the market is noticing.
+
+825
+00:53:00,875 --> 00:53:04,454
+Spotify's market share in the US has been slowly eroding.
+
+826
+00:53:04,984 --> 00:53:08,723
+Not dramatically— they're still the largest music streaming service globally—
+
+827
+00:53:09,157 --> 00:53:12,414
+but the trend is concerning for them. Apple Music has
+
+828
+00:53:12,447 --> 00:53:15,351
+grown to around 30% market share in the US.
+
+829
+00:53:15,897 --> 00:53:19,312
+YouTube Music is gaining. Especially among younger users.
+
+830
+00:53:20,050 --> 00:53:24,056
+Amazon Music has grown thanks to Prime bundling. Spotify's growth has
+
+831
+00:53:24,072 --> 00:53:27,597
+slowed, and in some markets, reversed. Spotify's response
+
+832
+00:53:28,097 --> 00:53:31,699
+to all of this has been: more price hikes, more pivots, more AI
+
+833
+00:53:32,199 --> 00:53:35,369
+features. They're trying to convince Wall Street that they have a path to
+
+834
+00:53:35,869 --> 00:53:39,262
+continued growth, while their actual core product—
+
+835
+00:53:39,359 --> 00:53:43,349
+the music streaming app that you pay for— is, by every measurable
+
+836
+00:53:43,381 --> 00:53:47,582
+metric, getting worse. There's a question nobody at Spotify
+
+837
+00:53:47,710 --> 00:53:51,574
+wants to answer: if your competitors can pay artists more,
+
+838
+00:53:51,799 --> 00:53:55,295
+ship better features, and charge less or the same, while you raise
+
+839
+00:53:55,407 --> 00:53:59,031
+prices every year, ship fewer features, and pay artists less,
+
+840
+00:53:59,576 --> 00:54:03,088
+what exactly is your value proposition? What are you offering that
+
+841
+00:54:03,588 --> 00:54:07,818
+they don't? The honest answer is playlists. Spotify's playlist
+
+842
+00:54:08,318 --> 00:54:12,004
+curation, even after all the criticism I just gave it, is still better
+
+843
+00:54:12,504 --> 00:54:15,820
+than Apple Music's. And Discover Weekly, even watered down,
+
+844
+00:54:16,093 --> 00:54:18,546
+is still better than anything Apple offers.
+
+845
+00:54:18,995 --> 00:54:22,635
+Spotify's recommendation engine, despite its flaws, is still
+
+846
+00:54:22,747 --> 00:54:26,131
+the best in the business for surfacing music that matches your taste.
+
+847
+00:54:27,077 --> 00:54:31,567
+But is that enough? Is playlist curation worth paying 50% more
+
+848
+00:54:32,067 --> 00:54:35,544
+than you did 3 years ago? Is it worth knowing that the artists you love
+
+849
+00:54:35,576 --> 00:54:39,279
+are getting paid half what Apple would pay them? For most
+
+850
+00:54:39,779 --> 00:54:43,350
+users, the answer is yes. For now. Spotify is sticky.
+
+851
+00:54:43,734 --> 00:54:47,100
+Your playlists are there. Your friends are there. Your Wrapped is there.
+
+852
+00:54:47,420 --> 00:54:50,625
+Switching is annoying. But stickiness has limits.
+
+853
+00:54:51,346 --> 00:54:54,567
+And every price hike tests those limits. Let's talk about
+
+854
+00:54:55,067 --> 00:54:58,157
+the man running this whole show. Because his story is the most
+
+855
+00:54:58,657 --> 00:55:01,987
+revealing part of all of this. Daniel Ek, the founder and CEO of
+
+856
+00:55:02,003 --> 00:55:05,368
+Spotify, is a billionaire. He's worth something
+
+857
+00:55:05,400 --> 00:55:08,267
+around $5 to $7 billion depending on the day.
+
+858
+00:55:08,828 --> 00:55:12,192
+He founded Spotify in 2006. He's been the
+
+859
+00:55:12,692 --> 00:55:15,765
+CEO since the beginning. He is the company, in many ways.
+
+860
+00:55:16,021 --> 00:55:19,690
+In 2023, Daniel Ek started selling Spotify shares.
+
+861
+00:55:20,043 --> 00:55:22,558
+A lot of them. Hundreds of millions of dollars worth.
+
+862
+00:55:23,071 --> 00:55:25,698
+Not in a panic, not all at once, but steadily.
+
+863
+00:55:26,147 --> 00:55:30,120
+Through prearranged trading plans the kind executives use to cash
+
+864
+00:55:30,620 --> 00:55:34,285
+out without signaling that they think the stock is about to crash.
+
+865
+00:55:34,543 --> 00:55:38,082
+Perfectly legal. Perfectly normal. But also,
+
+866
+00:55:38,260 --> 00:55:41,380
+perfectly telling. What's he doing with the money? He's buying a
+
+867
+00:55:41,477 --> 00:55:44,926
+weapons company. Specifically, Ek has invested hundreds
+
+868
+00:55:45,426 --> 00:55:49,200
+of millions of euros into Helsing, a European defense AI startup that
+
+869
+00:55:49,248 --> 00:55:52,929
+makes AI software for fighter jets, drones, and military
+
+870
+00:55:53,429 --> 00:55:56,796
+applications. He's not just an investor. He's the chairman of the
+
+871
+00:55:56,812 --> 00:56:01,001
+board. He personally lobbied the German government on Helsing's behalf.
+
+872
+00:56:01,513 --> 00:56:04,563
+He has made defense tech his second full-time job.
+
+873
+00:56:04,885 --> 00:56:08,224
+This is not a side hobby. This is a billionaire who
+
+874
+00:56:08,337 --> 00:56:12,094
+built his fortune on music streaming, on the labor of millions
+
+875
+00:56:12,594 --> 00:56:15,514
+of artists who are paid 3 tenths of a cent per stream,
+
+876
+00:56:16,108 --> 00:56:19,817
+deciding that what he really wants to do with his wealth is build the
+
+877
+00:56:20,317 --> 00:56:23,783
+next generation of weapons systems, while the music platform that
+
+878
+00:56:23,815 --> 00:56:26,769
+made him rich is, by every measure, decaying.
+
+879
+00:56:27,266 --> 00:56:30,615
+Now, to be clear, defense technology is a legitimate
+
+880
+00:56:30,711 --> 00:56:34,492
+industry. Helsing is a real company doing real work that
+
+881
+00:56:34,992 --> 00:56:38,418
+European governments consider important, especially in the context
+
+882
+00:56:38,918 --> 00:56:42,488
+of the war in Ukraine. Daniel Ek is allowed to spend his money however
+
+883
+00:56:42,504 --> 00:56:45,853
+he wants. This is not a moral judgment on defense tech,
+
+884
+00:56:46,253 --> 00:56:49,458
+but it is a judgment on priorities. The founder
+
+885
+00:56:49,958 --> 00:56:54,040
+of the world's largest music streaming platform, a platform that has been criticized
+
+886
+00:56:54,540 --> 00:56:58,374
+by artists, by lawmakers, by the entire independent music
+
+887
+00:56:58,438 --> 00:57:01,826
+community for its treatment of musicians, has decided
+
+888
+00:57:02,326 --> 00:57:06,563
+that his time and money are better spent building AI for fighter jets
+
+889
+00:57:06,627 --> 00:57:10,015
+than fixing the company he founded. Spotify artists are
+
+890
+00:57:10,079 --> 00:57:13,483
+paid fractions of a cent. Spotify hasn't shipped a promised
+
+891
+00:57:13,612 --> 00:57:16,983
+lossless feature in 5 years. Spotify's podcast
+
+892
+00:57:16,999 --> 00:57:20,098
+empire collapsed. Spotify's algorithm has gotten worse.
+
+893
+00:57:20,548 --> 00:57:24,112
+Spotify's prices have gone up 4 times in 3 years.
+
+894
+00:57:24,385 --> 00:57:27,500
+And the CEO's attention is elsewhere. Ek still shows
+
+895
+00:57:28,000 --> 00:57:31,466
+up to earnings calls. He still gives interviews about Spotify's future.
+
+896
+00:57:32,012 --> 00:57:35,865
+But the energy, the focus, the obsession that built Spotify
+
+897
+00:57:36,365 --> 00:57:40,040
+in the first place— that's gone. He's checked out. He's the defense guy
+
+898
+00:57:40,200 --> 00:57:42,737
+now. Spotify is the thing that pays for Helsing.
+
+899
+00:57:43,315 --> 00:57:46,751
+And the stock market has noticed something different. While Ek sells,
+
+900
+00:57:47,088 --> 00:57:50,461
+institutional investors have been buying. Spotify's stock
+
+901
+00:57:50,961 --> 00:57:54,942
+has been on a tear, up over 300% from its 2022 lows.
+
+902
+00:57:55,296 --> 00:57:58,524
+Wall Street loves Spotify right now. They love
+
+903
+00:57:58,588 --> 00:58:02,845
+the price hikes. They love the margin expansion. They love the AI
+
+904
+00:58:03,345 --> 00:58:06,748
+narrative. They love that Ek is squeezing more profit out of every
+
+905
+00:58:06,780 --> 00:58:10,298
+subscriber. Wall Street doesn't care that artists are paid
+
+906
+00:58:10,798 --> 00:58:14,764
+less. Wall Street doesn't care that the product is getting worse. Wall Street
+
+907
+00:58:14,876 --> 00:58:18,632
+cares about one thing: profit growth. And Spotify is
+
+908
+00:58:18,744 --> 00:58:22,495
+delivering profit growth— by squeezing everyone else. So here's
+
+909
+00:58:22,995 --> 00:58:26,550
+where we are: the CEO is checked out. The stock is at all-time
+
+910
+00:58:26,598 --> 00:58:30,477
+highs. The product is decaying. Artists are paid less than
+
+911
+00:58:30,525 --> 00:58:33,747
+ever. Prices are higher than ever. And Wall Street is
+
+912
+00:58:33,811 --> 00:58:37,257
+cheering. Let's talk about that stock price. Because it's the
+
+913
+00:58:37,273 --> 00:58:41,040
+most revealing number of all. In early 2023,
+
+914
+00:58:41,361 --> 00:58:44,631
+Spotify's stock was trading at around $70 per
+
+915
+00:58:45,131 --> 00:58:48,173
+share. In early 2026, it's over $400.
+
+916
+00:58:48,879 --> 00:58:51,411
+That's a nearly sixfold increase in 3 years.
+
+917
+00:58:52,021 --> 00:58:55,740
+Spotify's market capitalization is now north of $80 billion.
+
+918
+00:58:56,557 --> 00:58:59,555
+Why? Because Spotify finally turned profitable.
+
+919
+00:59:00,100 --> 00:59:03,835
+After years of operating at a loss, after years of burning cash to
+
+920
+00:59:03,851 --> 00:59:06,368
+acquire users, build the podcast empire,
+
+921
+00:59:06,816 --> 00:59:10,231
+expand into new markets, Spotify started making real
+
+922
+00:59:10,279 --> 00:59:13,697
+money in 2024. Their operating margin went positive.
+
+923
+00:59:14,195 --> 00:59:18,034
+Their free cash flow exploded. They reported record profits quarter
+
+924
+00:59:18,130 --> 00:59:22,146
+after quarter. The stock took off. How did they turn profitable?
+
+925
+00:59:22,547 --> 00:59:25,936
+Not by growing subscribers. Subscriber growth has slowed.
+
+926
+00:59:26,177 --> 00:59:29,550
+Not by launching successful new products. The podcast
+
+927
+00:59:30,050 --> 00:59:33,710
+empire collapsed. Audiobooks are a niche. AI features are fluff.
+
+928
+00:59:34,192 --> 00:59:37,693
+They turned profitable by raising prices and cutting costs.
+
+929
+00:59:37,966 --> 00:59:41,236
+The prices, we've covered. 4 hikes in 3 years.
+
+930
+00:59:41,653 --> 00:59:45,708
+50% more revenue per subscriber. The cost cuts are less visible
+
+931
+00:59:45,756 --> 00:59:49,491
+but more brutal. Spotify has laid off thousands of employees
+
+932
+00:59:49,587 --> 00:59:53,258
+since 2023. They shut down entire divisions.
+
+933
+00:59:53,515 --> 00:59:57,346
+They killed shows. They restructured deals. They squeezed every
+
+934
+00:59:57,442 --> 01:00:01,048
+dollar out of their existing operations. And here's the
+
+935
+01:00:01,548 --> 01:00:04,767
+most important cost cut of all: they didn't raise artist royalties.
+
+936
+01:00:05,072 --> 01:00:09,206
+Per-stream payouts went down. The 1,000-stream demonetization
+
+937
+01:00:09,222 --> 01:00:12,731
+rule redirected money from small artists to major labels.
+
+938
+01:00:13,260 --> 01:00:16,593
+Discovery Mode let them pay lower rates to artists
+
+939
+01:00:17,093 --> 01:00:20,904
+who opted in. Every lever Spotify had to reduce the percentage of revenue
+
+940
+01:00:21,096 --> 01:00:23,564
+that went to artists, they pulled. The result?
+
+941
+01:00:24,060 --> 01:00:28,050
+Spotify's gross margin improved from around 26% in
+
+942
+01:00:28,131 --> 01:00:31,159
+2022 to over 30% in 2025.
+
+943
+01:00:31,592 --> 01:00:35,663
+That 4 percentage point improvement on a $15 billion revenue
+
+944
+01:00:35,679 --> 01:00:38,837
+base is $600 million in additional profit,
+
+945
+01:00:39,189 --> 01:00:42,347
+per year, taken directly out of the royalty pool
+
+946
+01:00:42,475 --> 01:00:46,242
+that should have gone to artists. So when you read that Spotify's stock
+
+947
+01:00:46,338 --> 01:00:49,495
+is at an all-time high, that they're more profitable than
+
+948
+01:00:49,688 --> 01:00:53,294
+ever, that Wall Street loves them— understand
+
+949
+01:00:53,794 --> 01:00:57,285
+what that means. It means they've figured out how to extract more money from
+
+950
+01:00:57,381 --> 01:01:01,692
+you and from artists while delivering less. That's what their profitability
+
+951
+01:01:01,901 --> 01:01:05,586
+is built on. Price hikes. Cost cuts. Lower royalties.
+
+952
+01:01:05,811 --> 01:01:08,855
+Higher margins. Wall Street is celebrating.
+
+953
+01:01:09,240 --> 01:01:12,829
+Artists are suffering. Listeners are paying more. The CEO
+
+954
+01:01:12,958 --> 01:01:16,355
+is selling shares to build weapons. The product is decaying.
+
+955
+01:01:16,691 --> 01:01:20,281
+This is what a successful tech company looks like in 2026.
+
+956
+01:01:20,633 --> 01:01:23,566
+And the most maddening part? Spotify knows.
+
+957
+01:01:24,239 --> 01:01:27,636
+They know the artists are unhappy. They know the listeners are frustrated.
+
+958
+01:01:27,924 --> 01:01:31,177
+They know the listeners are frustrated. They know the competition
+
+959
+01:01:31,225 --> 01:01:34,623
+is catching up. They just don't care, because the stock price is
+
+960
+01:01:34,639 --> 01:01:38,164
+the only metric that matters to them, and the stock price is going up.
+
+961
+01:01:38,581 --> 01:01:41,994
+But there's one more thing they do that I haven't covered yet. The thing
+
+962
+01:01:42,106 --> 01:01:45,134
+that makes everyone forgive them every December.
+
+963
+01:01:45,551 --> 01:01:48,884
+Wrapped. Let's talk about Wrapped. Every December,
+
+964
+01:01:49,156 --> 01:01:53,244
+Spotify releases Wrapped. Your year in music. Your top
+
+965
+01:01:53,744 --> 01:01:57,193
+artists, top songs, top genres, total minutes listened.
+
+966
+01:01:57,482 --> 01:02:00,725
+A slick slideshow with bright colors and shareable graphics.
+
+967
+01:02:01,094 --> 01:02:05,027
+Instagram fills up with Wrapped screenshots. Twitter fills up with
+
+968
+01:02:05,107 --> 01:02:08,943
+Wrapped screenshots. TikTok fills up with Wrapped reactions.
+
+969
+01:02:09,281 --> 01:02:13,117
+Wrapped is brilliant. It's the most successful marketing campaign in
+
+970
+01:02:13,230 --> 01:02:16,665
+music history. It turns every Spotify user into a free
+
+971
+01:02:16,681 --> 01:02:19,843
+billboard for Spotify. Every December, without fail.
+
+972
+01:02:20,614 --> 01:02:24,195
+But here's what Wrapped actually is. It's a distraction.
+
+973
+01:02:25,191 --> 01:02:28,772
+While you're sharing your top 5 artists, Spotify is raising
+
+974
+01:02:28,868 --> 01:02:32,802
+your subscription price. While you're bragging about your 100,000
+
+975
+01:02:32,818 --> 01:02:36,576
+minutes listened, Spotify is cutting per-stream royalties to
+
+976
+01:02:36,656 --> 01:02:40,093
+artists. While you're celebrating your music taste, Spotify is
+
+977
+01:02:40,141 --> 01:02:43,288
+shipping AI-generated slop into your playlists.
+
+978
+01:02:43,802 --> 01:02:47,447
+Wrapped is the dessert they serve you so you don't notice that
+
+979
+01:02:47,947 --> 01:02:51,815
+the main course got smaller and more expensive. And Wrapped has gotten worse
+
+980
+01:02:52,008 --> 01:02:55,718
+too. The 2024 Wrapped was widely criticized
+
+981
+01:02:56,218 --> 01:02:59,829
+for being less detailed, less interesting, less shareable
+
+982
+01:02:59,878 --> 01:03:03,314
+than previous years. Spotify added AI-generated
+
+983
+01:03:03,395 --> 01:03:07,233
+podcast commentary about your listening habits, which most users
+
+984
+01:03:07,345 --> 01:03:10,477
+found annoying. They removed some of the granular stats
+
+985
+01:03:10,977 --> 01:03:14,685
+that power users loved. They turned a beloved annual tradition into
+
+986
+01:03:14,733 --> 01:03:18,200
+another vehicle for their AI features. Wrapped is also,
+
+987
+01:03:18,505 --> 01:03:21,391
+structurally, free user research for Spotify.
+
+988
+01:03:22,016 --> 01:03:24,838
+Every time you share your Wrapped, you're telling Spotify,
+
+989
+01:03:25,463 --> 01:03:28,590
+and the world, what kind of music you like, how much you
+
+990
+01:03:29,090 --> 01:03:32,983
+listen, what genres you gravitate toward, how loyal you are to certain
+
+991
+01:03:33,079 --> 01:03:36,783
+artists. Spotify uses this data to train their recommendation
+
+992
+01:03:36,847 --> 01:03:40,310
+algorithms, to sell targeted advertising on the free
+
+993
+01:03:40,810 --> 01:03:44,238
+tier, to negotiate with major labels for better terms. You're giving
+
+994
+01:03:44,302 --> 01:03:47,816
+them all of that, for free, every December and
+
+995
+01:03:47,912 --> 01:03:51,107
+thanking them for the privilege. But here's the thing
+
+996
+01:03:51,155 --> 01:03:54,912
+about Wrapped. It works. People love it. They look forward
+
+997
+01:03:55,412 --> 01:03:59,166
+to it. They share it. They defend Spotify because of it. Wrapped is the
+
+998
+01:03:59,666 --> 01:04:03,468
+single best argument that Spotify still makes something people genuinely
+
+999
+01:04:03,564 --> 01:04:07,482
+love, which makes it hard to argue that Spotify is a bad
+
+1000
+01:04:07,514 --> 01:04:10,949
+company. Because if they were, why would you look forward
+
+1001
+01:04:11,449 --> 01:04:15,061
+to their annual recap so much? The answer is that Spotify isn't a
+
+1002
+01:04:15,561 --> 01:04:18,017
+bad company. They're a good company that's been slowly,
+
+1003
+01:04:18,836 --> 01:04:21,134
+deliberately optimizing for the wrong things.
+
+1004
+01:04:21,889 --> 01:04:25,922
+They optimized for engagement instead of discovery. For margin instead
+
+1005
+01:04:26,422 --> 01:04:30,565
+of artist welfare. For Wall Street instead of musicians. They didn't
+
+1006
+01:04:31,065 --> 01:04:34,871
+become evil. They became efficient. And efficiency, when your product is
+
+1007
+01:04:35,128 --> 01:04:38,438
+art, is corrosive. So what should you do? Let's talk
+
+1008
+01:04:38,938 --> 01:04:41,775
+about that. So, You've listened to all of this. You've heard the numbers.
+
+1009
+01:04:42,513 --> 01:04:46,698
+You've heard about the price hikes, the royalty cuts, the AI slop,
+
+1010
+01:04:47,019 --> 01:04:50,386
+the podcast collapse, the audiobook bundling, the broken
+
+1011
+01:04:50,450 --> 01:04:54,379
+hi-fi promise, the algorithmic decay, the CEO's exit, the stock
+
+1012
+01:04:54,395 --> 01:04:58,388
+bubble. And you're wondering, should I cancel Spotify? Maybe. Here's my
+
+1013
+01:04:58,468 --> 01:05:02,750
+honest take. Spotify is still, in many ways, the best
+
+1014
+01:05:03,250 --> 01:05:06,470
+music streaming app. The recommendation engine, even watered down,
+
+1015
+01:05:06,679 --> 01:05:10,527
+is the best in the business. The playlist ecosystem is unmatched.
+
+1016
+01:05:10,977 --> 01:05:14,044
+The social features— collaborative playlists, Blend,
+
+1017
+01:05:14,366 --> 01:05:18,365
+Wrapped— are genuinely fun. The catalog is huge. The app
+
+1018
+01:05:18,445 --> 01:05:21,641
+works well. If you care about music discovery, Spotify is
+
+1019
+01:05:21,753 --> 01:05:25,688
+still the easiest place to find new music. But every year, the gap
+
+1020
+01:05:25,752 --> 01:05:28,145
+between Spotify and its competitors narrows.
+
+1021
+01:05:28,724 --> 01:05:32,353
+Apple Music has lossless. Apple Music has spatial audio.
+
+1022
+01:05:32,578 --> 01:05:36,208
+Apple Music pays artists twice as much. YouTube Music is bundled
+
+1023
+01:05:36,708 --> 01:05:40,842
+with YouTube Premium. Tidal pays artists even more than Apple. Even Amazon Music
+
+1024
+01:05:40,938 --> 01:05:43,983
+has lossless now. If you care about audio quality,
+
+1025
+01:05:43,999 --> 01:05:47,493
+switch to Apple Music or Tidal. If you care about artist
+
+1026
+01:05:47,993 --> 01:05:51,243
+compensation, switch to Apple Music or Tidal. If you want lossless,
+
+1027
+01:05:51,612 --> 01:05:55,362
+switch to literally anyone else. If you're tired of price
+
+1028
+01:05:55,862 --> 01:05:59,321
+hikes, switch to YouTube Music, which is bundled with YouTube
+
+1029
+01:05:59,433 --> 01:06:03,199
+Premium and often effectively cheaper. If you want
+
+1030
+01:06:03,699 --> 01:06:06,869
+the best playlist curation and the best recommendation engine,
+
+1031
+01:06:07,287 --> 01:06:11,060
+and you're willing to pay for it, stay with Spotify. Just know what
+
+1032
+01:06:11,560 --> 01:06:14,448
+you're paying for, and who you're paying, and what they're doing with the money.
+
+1033
+01:06:14,913 --> 01:06:18,751
+Here's what I'd actually recommend. Don't make a moral decision.
+
+1034
+01:06:19,168 --> 01:06:22,604
+Make a practical one. Try Apple Music for a month.
+
+1035
+01:06:23,182 --> 01:06:26,779
+Try Tidal. See if you miss Spotify. Most people
+
+1036
+01:06:26,891 --> 01:06:30,905
+don't miss it as much as they think they will. Your playlists can be transferred
+
+1037
+01:06:31,405 --> 01:06:34,965
+with tools like Soundeze, and tune my music. Your friends will
+
+1038
+01:06:34,997 --> 01:06:38,573
+still be on Spotify if you want to make collaborative playlists.
+
+1039
+01:06:38,926 --> 01:06:42,470
+You can keep Spotify free tier for social stuff and pay
+
+1040
+01:06:42,615 --> 01:06:46,095
+for Apple Music for actual listening. And— this is the most
+
+1041
+01:06:46,143 --> 01:06:49,815
+important part— buy music. Buy albums on Bandcamp.
+
+1042
+01:06:50,072 --> 01:06:53,889
+Buy vinyl. Buy merch. Go to concerts. Buy directly
+
+1043
+01:06:53,905 --> 01:06:57,417
+from artists whenever you can. Streaming was never going to sustain
+
+1044
+01:06:57,465 --> 01:07:01,347
+a music ecosystem. It was always going to extract from it. The only
+
+1045
+01:07:01,444 --> 01:07:04,636
+way to actually support artists is to pay them directly,
+
+1046
+01:07:05,070 --> 01:07:08,278
+in transactions that aren't mediated by a streaming platform's
+
+1047
+01:07:08,343 --> 01:07:11,535
+royalty math. Spotify has a serious problem.
+
+1048
+01:07:11,968 --> 01:07:15,065
+Their product is decaying. Their artists are starving.
+
+1049
+01:07:15,402 --> 01:07:18,434
+Their CEO has checked out. Their stock is a bubble.
+
+1050
+01:07:18,771 --> 01:07:22,124
+Their pivots have failed. Their promises have been broken.
+
+1051
+01:07:22,397 --> 01:07:26,085
+Their competition is catching up. But Spotify's biggest problem
+
+1052
+01:07:26,309 --> 01:07:30,060
+isn't any of those things. Spotify's biggest problem is
+
+1053
+01:07:30,092 --> 01:07:33,217
+that they've forgotten what they're for. They were supposed to be the
+
+1054
+01:07:33,717 --> 01:07:37,352
+platform that gave every artist a fair shot and every listener
+
+1055
+01:07:37,384 --> 01:07:40,895
+access to every song ever recorded. They were
+
+1056
+01:07:41,395 --> 01:07:45,366
+supposed to be the future of music. Instead, they've become a cautionary
+
+1057
+01:07:45,398 --> 01:07:49,181
+tale. A story about what happens when a company that promised
+
+1058
+01:07:49,681 --> 01:07:52,899
+to democratize an industry decides to squeeze it instead.
+
+1059
+01:07:53,494 --> 01:07:56,805
+You've paid Spotify more money every year since 2023.
+
+1060
+01:07:57,432 --> 01:08:01,129
+The artists you love have been paid less per stream every year since
+
+1061
+01:08:01,629 --> 01:08:05,824
+2023. And Spotify's stock has gone up every year since 2023.
+
+1062
+01:08:06,258 --> 01:08:09,987
+3 numbers. 3 trajectories. All connected.
+
+1063
+01:08:10,518 --> 01:08:13,813
+You can decide for yourself what they add up to, but if you ask me,
+
+1064
+01:08:14,151 --> 01:08:15,967
+they add up to a serious problem.
+

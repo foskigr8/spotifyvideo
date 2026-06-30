@@ -8,6 +8,8 @@ import { QuoteCard } from './scenes/QuoteCard'
 import { Split } from './scenes/Split'
 import { Timeline } from './scenes/Timeline'
 import { Chapter } from './scenes/Chapter'
+import { Chart } from './scenes/Chart'
+import { Receipt } from './scenes/Receipt'
 
 interface Props {
   scene: Scene
@@ -27,6 +29,10 @@ export function SceneRenderer({ scene, words, t }: Props) {
       return <MoneyFlow scene={scene} progress={progress} />
     case 'quote':
       return <QuoteCard scene={scene} progress={progress} />
+    case 'chart':
+      return <Chart scene={scene} progress={progress} />
+    case 'receipt':
+      return <Receipt scene={scene} progress={progress} />
     case 'split':
       return <Split scene={scene} progress={progress} />
     case 'timeline':
@@ -38,17 +44,16 @@ export function SceneRenderer({ scene, words, t }: Props) {
   }
 }
 
-// Color per scene type, used by the timeline strip + badges
 export const TYPE_COLORS: Record<Scene['type'], string> = {
-  kinetic: '#3A3A3A',
+  kinetic: '#D4CCBA',
   stat: '#1DB954',
   moneyflow: '#1DB954',
-  quote: '#F4EFE6',
-  chart: '#1DB954',
-  receipt: '#F4EFE6',
-  timeline: '#1DB954',
-  split: '#FF3B3B',
-  chapter: '#F5F5F5',
+  quote: '#E8D5B0',
+  chart: '#FF8C00',
+  receipt: '#E8D5B0',
+  timeline: '#7BC8A4',
+  split: '#E34948',
+  chapter: '#1A1A1A',
 }
 
 export const TYPE_LABELS: Record<Scene['type'], string> = {

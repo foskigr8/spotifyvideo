@@ -1,0 +1,365 @@
+
+<style>
+  .root{padding:1rem 0;font-family:var(--font-sans)}
+  .canvas-wrap{border:0.5px solid var(--border);border-radius:12px;overflow:hidden;background:#fffef8;position:relative}
+  .controls{display:flex;gap:8px;align-items:center;margin:0.75rem 0;flex-wrap:wrap}
+  .btn{font-size:13px;padding:6px 14px;border:0.5px solid var(--border-strong);border-radius:var(--radius);cursor:pointer;background:transparent;color:var(--text-primary)}
+  .btn:hover{background:var(--surface-1)}
+  .btn.primary{background:#1DB954;color:#fff;border-color:#1DB954}
+  .btn.primary:hover{background:#18a349}
+  .scene-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:0.75rem 0}
+  .scene-btn{font-size:11px;padding:5px 8px;border:0.5px solid var(--border);border-radius:6px;cursor:pointer;background:var(--surface-1);color:var(--text-secondary);text-align:center}
+  .scene-btn:hover{border-color:var(--border-accent);color:var(--text-accent)}
+  .scene-btn.active{border-color:#1DB954;color:#1DB954;background:#EAF3DE}
+  .code-block{background:var(--surface-1);border:0.5px solid var(--border);border-radius:8px;padding:1rem;font-family:var(--font-mono);font-size:11.5px;line-height:1.7;color:var(--text-primary);overflow-x:auto;margin:0.75rem 0}
+  .kw{color:#7F77DD}.fn{color:#1D9E75}.str{color:#BA7517}.cm{color:var(--text-muted)}.num{color:#D85A30}
+  .section{font-size:11px;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.08em;margin:1.5rem 0 0.5rem}
+  .status{font-size:12px;color:var(--text-muted);margin-top:6px;min-height:18px}
+</style>
+
+<div class="root">
+
+<div class="section">Live doodle canvas — pick a scene from your transcript</div>
+<div class="scene-grid">
+  <div class="scene-btn active" onclick="loadScene('prices')">💸 Price hikes</div>
+  <div class="scene-btn" onclick="loadScene('artist')">🎸 Artist payout</div>
+  <div class="scene-btn" onclick="loadScene('stream')">📊 Per-stream math</div>
+  <div class="scene-btn" onclick="loadScene('scam')">🟢 Polite scam</div>
+</div>
+
+<div class="canvas-wrap">
+  <canvas id="dc" width="640" height="360" style="width:100%;display:block"></canvas>
+</div>
+<div class="status" id="status">press a scene button to draw</div>
+
+<div class="controls">
+  <button class="btn primary" onclick="replayScene()">↺ Replay</button>
+  <button class="btn" onclick="clearCanvas()">Clear</button>
+  <button class="btn" onclick="toggleSpeed()">Speed: <span id="spd-label">1×</span></button>
+</div>
+
+<div class="section">The renderer class — drop this into your project</div>
+<div class="code-block"><span class="kw">class</span> <span class="fn">DoodleRenderer</span> {
+  <span class="fn">constructor</span>(canvas) {
+    <span class="kw">this</span>.ctx   = canvas.<span class="fn">getContext</span>(<span class="str">'2d'</span>);
+    <span class="kw">this</span>.queue = [];
+    <span class="kw">this</span>.busy  = <span class="kw">false</span>;
+    <span class="kw">this</span>.speed = <span class="num">1</span>; <span class="cm">// multiply all durations by 1/speed</span>
+    <span class="fn">this</span>.<span class="fn">_applyPaperTexture</span>();
+  }
+
+  <span class="cm">// Main entry — pass AI-returned command array</span>
+  <span class="fn">renderCommands</span>(cmds) {
+    <span class="kw">this</span>.queue.push(...cmds);
+    <span class="kw">if</span> (!<span class="kw">this</span>.busy) <span class="kw">this</span>.<span class="fn">_next</span>();
+  }
+
+  <span class="kw">async</span> <span class="fn">_next</span>() {
+    <span class="kw">if</span> (!<span class="kw">this</span>.queue.length) { <span class="kw">this</span>.busy = <span class="kw">false</span>; <span class="kw">return</span>; }
+    <span class="kw">this</span>.busy = <span class="kw">true</span>;
+    <span class="kw">const</span> cmd = <span class="kw">this</span>.queue.<span class="fn">shift</span>();
+    <span class="kw">await this</span>.<span class="fn">_execute</span>(cmd);
+    <span class="kw">this</span>.<span class="fn">_next</span>();
+  }
+
+  <span class="kw">async</span> <span class="fn">_execute</span>(cmd) {
+    <span class="kw">switch</span> (cmd.type) {
+      <span class="kw">case</span> <span class="str">'stroke'</span>:  <span class="kw">return await this</span>.<span class="fn">_drawStroke</span>(cmd);
+      <span class="kw">case</span> <span class="str">'text'</span>:    <span class="kw">return await this</span>.<span class="fn">_drawText</span>(cmd);
+      <span class="kw">case</span> <span class="str">'circle'</span>:  <span class="kw">return await this</span>.<span class="fn">_drawCircle</span>(cmd);
+      <span class="kw">case</span> <span class="str">'wait'</span>:    <span class="kw">return await this</span>.<span class="fn">_wait</span>(cmd.ms);
+      <span class="kw">case</span> <span class="str">'clear'</span>:   <span class="kw">return this</span>.<span class="fn">_clear</span>();
+    }
+  }
+
+  <span class="cm">// Animate a path point-by-point (hand-drawn feel)</span>
+  <span class="kw">async</span> <span class="fn">_drawStroke</span>({points, color=<span class="str">'#222'</span>, width=<span class="num">2.5</span>, duration=<span class="num">600</span>}) {
+    <span class="kw">const</span> ctx = <span class="kw">this</span>.ctx;
+    <span class="kw">const</span> ms  = duration / <span class="kw">this</span>.speed;
+    <span class="kw">const</span> delay = ms / points.length;
+    ctx.strokeStyle = color;
+    ctx.lineWidth   = width;
+    ctx.lineCap     = <span class="str">'round'</span>;
+    ctx.lineJoin    = <span class="str">'round'</span>;
+    <span class="kw">for</span> (<span class="kw">let</span> i = <span class="num">1</span>; i < points.length; i++) {
+      ctx.<span class="fn">beginPath</span>();
+      ctx.<span class="fn">moveTo</span>(points[i-<span class="num">1</span>].x, points[i-<span class="num">1</span>].y);
+      ctx.<span class="fn">lineTo</span>(points[i].x,   points[i].y);
+      ctx.<span class="fn">stroke</span>();
+      <span class="kw">await this</span>.<span class="fn">_wait</span>(delay);
+    }
+  }
+
+  <span class="cm">// Typewriter-style hand font text</span>
+  <span class="kw">async</span> <span class="fn">_drawText</span>({text, x, y, size=<span class="num">28</span>, color=<span class="str">'#222'</span>, duration=<span class="num">500</span>}) {
+    <span class="kw">const</span> ctx   = <span class="kw">this</span>.ctx;
+    <span class="kw">const</span> delay = (duration / <span class="kw">this</span>.speed) / text.length;
+    ctx.fillStyle = color;
+    ctx.font      = `<span class="num">700</span> ${size}px 'Caveat', cursive`;
+    <span class="kw">let</span> drawn = <span class="str">''</span>;
+    <span class="kw">for</span> (<span class="kw">const</span> ch <span class="kw">of</span> text) {
+      drawn += ch;
+      ctx.<span class="fn">clearRect</span>(x - <span class="num">2</span>, y - size, ctx.<span class="fn">measureText</span>(drawn).width + <span class="num">40</span>, size + <span class="num">8</span>);
+      ctx.fillText(drawn, x, y);
+      <span class="kw">await this</span>.<span class="fn">_wait</span>(delay);
+    }
+  }
+
+  <span class="fn">_wait</span>(ms) {
+    <span class="kw">return new</span> <span class="fn">Promise</span>(r => <span class="fn">setTimeout</span>(r, ms));
+  }
+}</div>
+
+<div class="section">What the AI agent returns — command format</div>
+<div class="code-block"><span class="cm">// For the line: "Spotify raised its prices in 2023"</span>
+<span class="cm">// AI returns this array of draw commands:</span>
+
+[
+  { type: <span class="str">'wait'</span>, ms: <span class="num">200</span> },
+
+  <span class="cm">// Draw Spotify circle logo</span>
+  { type: <span class="str">'circle'</span>, cx: <span class="num">120</span>, cy: <span class="num">180</span>,
+    r: <span class="num">60</span>, color: <span class="str">'#1DB954'</span>, fill: <span class="kw">true</span>, duration: <span class="num">400</span> },
+
+  <span class="cm">// Write the price going up</span>
+  { type: <span class="str">'text'</span>, text: <span class="str">'$9.99'</span>,  x: <span class="num">240</span>, y: <span class="num">160</span>,
+    color: <span class="str">'#222'</span>,    size: <span class="num">36</span>, duration: <span class="num">300</span> },
+  { type: <span class="str">'text'</span>, text: <span class="str">'→'</span>,     x: <span class="num">340</span>, y: <span class="num">160</span>,
+    color: <span class="str">'#E34948'</span>, size: <span class="num">36</span>, duration: <span class="num">150</span> },
+  { type: <span class="str">'text'</span>, text: <span class="str">'$10.99'</span>, x: <span class="num">370</span>, y: <span class="num">160</span>,
+    color: <span class="str">'#E34948'</span>, size: <span class="num">36</span>, duration: <span class="num">300</span> },
+
+  <span class="cm">// Underline stroke</span>
+  { type: <span class="str">'stroke'</span>, color: <span class="str">'#E34948'</span>, width: <span class="num">3</span>, duration: <span class="num">400</span>,
+    points: [{x:<span class="num">240</span>,y:<span class="num">170</span>},{x:<span class="num">245</span>,y:<span class="num">172</span>},...,{x:<span class="num">480</span>,y:<span class="num">170</span>}] },
+]</div>
+
+</div>
+
+<script>
+const SCENES = {
+  prices: {
+    label:'Price hikes — $9.99 → $14.99',
+    cmds:[
+      {type:'wait',ms:200},
+      {type:'text',text:'You pay',x:40,y:80,size:32,color:'#222',duration:400},
+      {type:'text',text:'MORE',x:220,y:80,size:38,color:'#E34948',duration:300},
+      {type:'stroke',color:'#E34948',width:3.5,duration:500,points:pts(220,85,340,85)},
+      {type:'wait',ms:300},
+      {type:'text',text:'$9.99',x:50,y:160,size:30,color:'#888',duration:280},
+      {type:'text',text:'→',x:145,y:160,size:30,color:'#E34948',duration:120},
+      {type:'text',text:'$10.99',x:175,y:160,size:30,color:'#E34948',duration:300},
+      {type:'text',text:'→',x:295,y:160,size:30,color:'#E34948',duration:120},
+      {type:'text',text:'$11.99',x:325,y:160,size:30,color:'#E34948',duration:300},
+      {type:'text',text:'→',x:445,y:160,size:30,color:'#E34948',duration:120},
+      {type:'text',text:'$12.99',x:475,y:160,size:30,color:'#E34948',duration:300},
+      {type:'wait',ms:200},
+      {type:'stroke',color:'#E34948',width:3,duration:600,points:arrow(50,200,580,200)},
+      {type:'text',text:'2023   2024   2025   2026',x:50,y:230,size:18,color:'#888',duration:600},
+      {type:'wait',ms:400},
+      {type:'text',text:'50% more.',x:50,y:300,size:42,color:'#E34948',duration:600},
+      {type:'stroke',color:'#E34948',width:4,duration:500,points:pts(50,310,280,310)},
+      {type:'text',text:'For nothing.',x:300,y:300,size:28,color:'#888',duration:500},
+    ]
+  },
+  artist: {
+    label:'Artist payout math',
+    cmds:[
+      {type:'wait',ms:200},
+      {type:'text',text:'2,000 listeners',x:50,y:70,size:28,color:'#222',duration:500},
+      {type:'stroke',color:'#1D9E75',width:2,duration:400,points:pts(50,80,290,80)},
+      {type:'text',text:'× 30 streams/mo',x:50,y:130,size:24,color:'#555',duration:500},
+      {type:'text',text:'= 60,000 streams',x:50,y:180,size:28,color:'#222',duration:500},
+      {type:'wait',ms:300},
+      {type:'text',text:'× $0.003',x:50,y:240,size:28,color:'#BA7517',duration:400},
+      {type:'stroke',color:'#BA7517',width:2,duration:300,points:pts(50,248,185,248)},
+      {type:'wait',ms:200},
+      {type:'text',text:'= $180/mo',x:50,y:300,size:40,color:'#E34948',duration:500},
+      {type:'stroke',color:'#E34948',width:3.5,duration:400,points:pts(50,310,260,310)},
+      {type:'wait',ms:300},
+      {type:'text',text:'before fees.',x:280,y:300,size:24,color:'#aaa',duration:400},
+      {type:'text',text:'before taxes.',x:280,y:330,size:24,color:'#aaa',duration:400},
+    ]
+  },
+  stream: {
+    label:'Per-stream rate collapsing',
+    cmds:[
+      {type:'wait',ms:200},
+      {type:'text',text:'per stream value',x:200,y:50,size:22,color:'#888',duration:400},
+      {type:'stroke',color:'#1D9E75',width:2.5,duration:700,points:graphLine(
+        [{x:60,y:280},{x:120,y:200},{x:180,y:180},{x:240,y:200}]
+      )},
+      {type:'text',text:'0.7¢',x:42,y:285,size:18,color:'#1D9E75',duration:200},
+      {type:'stroke',color:'#E34948',width:2.5,duration:900,points:graphLine(
+        [{x:240,y:200},{x:300,y:230},{x:360,y:250},{x:420,y:268},{x:500,y:290},{x:570,y:310}]
+      )},
+      {type:'text',text:'0.3¢',x:573,y:315,size:18,color:'#E34948',duration:200},
+      {type:'stroke',color:'#bbb',width:1.5,duration:400,points:pts(60,330,570,330)},
+      {type:'text',text:'2014',x:52,y:348,size:16,color:'#aaa',duration:200},
+      {type:'text',text:'2019',x:280,y:348,size:16,color:'#aaa',duration:200},
+      {type:'text',text:'2024',x:540,y:348,size:16,color:'#aaa',duration:200},
+      {type:'wait',ms:400},
+      {type:'text',text:'Revenue: 3× bigger.',x:60,y:100,size:22,color:'#1D9E75',duration:500},
+      {type:'text',text:'Artist cut: 2× smaller.',x:60,y:135,size:22,color:'#E34948',duration:500},
+    ]
+  },
+  scam: {
+    label:'Polite scam',
+    cmds:[
+      {type:'wait',ms:300},
+      {type:'circle',cx:160,cy:190,r:90,color:'#1DB954',fill:true,duration:500},
+      {type:'text',text:'Spotify',x:105,y:196,size:30,color:'#fff',duration:400},
+      {type:'wait',ms:200},
+      {type:'stroke',color:'#222',width:2,duration:500,points:pts(260,190,380,190)},
+      {type:'text',text:'a scam?',x:385,y:197,size:30,color:'#222',duration:450},
+      {type:'wait',ms:400},
+      {type:'text',text:'just a very',x:310,y:260,size:22,color:'#888',duration:400},
+      {type:'text',text:'polite one.',x:310,y:288,size:22,color:'#888',duration:400},
+      {type:'stroke',color:'#888',width:1.5,duration:500,points:wobbly(310,295,490,295)},
+      {type:'text',text:'with a green logo',x:260,y:340,size:18,color:'#1DB954',duration:500},
+    ]
+  }
+};
+
+function pts(x1,y1,x2,y2){
+  const out=[];const steps=30;
+  for(let i=0;i<=steps;i++){
+    const t=i/steps;
+    out.push({x:x1+(x2-x1)*t + (Math.random()-0.5)*1.5, y:y1+(y2-y1)*t + (Math.random()-0.5)*1.5});
+  }
+  return out;
+}
+
+function wobbly(x1,y1,x2,y2){
+  const out=[];const steps=40;
+  for(let i=0;i<=steps;i++){
+    const t=i/steps;
+    out.push({x:x1+(x2-x1)*t, y:y1+(y2-y1)*t + Math.sin(t*Math.PI*4)*3});
+  }
+  return out;
+}
+
+function arrow(x1,y1,x2,y2){
+  const base=pts(x1,y1,x2,y2);
+  base.push({x:x2-10,y:y2-6},{x:x2,y:y2},{x:x2-10,y:y2+6});
+  return base;
+}
+
+function graphLine(keyPoints){
+  const out=[];
+  for(let i=0;i<keyPoints.length-1;i++){
+    const a=keyPoints[i],b=keyPoints[i+1];
+    const steps=20;
+    for(let j=0;j<=steps;j++){
+      const t=j/steps;
+      out.push({x:a.x+(b.x-a.x)*t+(Math.random()-0.5)*1.2,y:a.y+(b.y-a.y)*t+(Math.random()-0.5)*1.2});
+    }
+  }
+  return out;
+}
+
+const canvas=document.getElementById('dc');
+const ctx=canvas.getContext('2d');
+let speed=1,queue=[],busy=false,currentScene='prices';
+
+function paperBg(){
+  ctx.fillStyle='#fffef8';
+  ctx.fillRect(0,0,640,360);
+  ctx.strokeStyle='rgba(0,0,0,0.03)';
+  for(let i=0;i<360;i+=24){ctx.beginPath();ctx.moveTo(0,i);ctx.lineTo(640,i);ctx.stroke();}
+}
+
+function wait(ms){return new Promise(r=>setTimeout(r,ms/speed));}
+
+async function drawStroke({points,color='#222',width=2.5,duration=600}){
+  const delay=(duration/speed)/points.length;
+  ctx.strokeStyle=color;ctx.lineWidth=width;ctx.lineCap='round';ctx.lineJoin='round';
+  for(let i=1;i<points.length;i++){
+    ctx.beginPath();ctx.moveTo(points[i-1].x,points[i-1].y);ctx.lineTo(points[i].x,points[i].y);ctx.stroke();
+    await wait(delay);
+  }
+}
+
+async function drawText({text,x,y,size=28,color='#222',duration=500}){
+  const delay=(duration/speed)/text.length;
+  ctx.fillStyle=color;
+  ctx.font=`700 ${size}px 'Caveat',cursive`;
+  let drawn='';
+  for(const ch of text){
+    drawn+=ch;
+    const w=ctx.measureText(drawn).width;
+    ctx.fillStyle='#fffef8';ctx.fillRect(x-2,y-size,w+30,size+10);
+    ctx.fillStyle=color;ctx.font=`700 ${size}px 'Caveat',cursive`;
+    ctx.fillText(drawn,x,y);
+    await wait(delay);
+  }
+}
+
+async function drawCircle({cx,cy,r,color='#222',fill=false,duration=500}){
+  const steps=60;const delay=(duration/speed)/steps;
+  for(let i=1;i<=steps;i++){
+    const ang=(i/steps)*Math.PI*2 - Math.PI/2;
+    const pang=((i-1)/steps)*Math.PI*2 - Math.PI/2;
+    ctx.beginPath();
+    ctx.moveTo(cx+Math.cos(pang)*(r+(Math.random()-0.5)*2),cy+Math.sin(pang)*(r+(Math.random()-0.5)*2));
+    ctx.lineTo(cx+Math.cos(ang)*(r+(Math.random()-0.5)*2),cy+Math.sin(ang)*(r+(Math.random()-0.5)*2));
+    ctx.strokeStyle=color;ctx.lineWidth=3;ctx.stroke();
+    await wait(delay);
+  }
+  if(fill){
+    ctx.beginPath();ctx.arc(cx,cy,r-2,0,Math.PI*2);
+    ctx.fillStyle=color+'cc';ctx.fill();
+  }
+}
+
+async function execute(cmd){
+  switch(cmd.type){
+    case 'stroke': return drawStroke(cmd);
+    case 'text':   return drawText(cmd);
+    case 'circle': return drawCircle(cmd);
+    case 'wait':   return wait(cmd.ms);
+    case 'clear':  paperBg(); return;
+  }
+}
+
+async function runQueue(cmds){
+  busy=true;
+  setStatus('drawing…');
+  for(const cmd of cmds){await execute(cmd);}
+  busy=false;
+  setStatus('done — hit replay or pick another scene');
+}
+
+function setStatus(t){document.getElementById('status').textContent=t;}
+
+function loadScene(key){
+  if(busy)return;
+  currentScene=key;
+  document.querySelectorAll('.scene-btn').forEach(b=>b.classList.remove('active'));
+  event.target.classList.add('active');
+  paperBg();
+  runQueue(SCENES[key].cmds);
+}
+
+function replayScene(){
+  if(busy)return;
+  paperBg();
+  runQueue(SCENES[currentScene].cmds);
+}
+
+function clearCanvas(){busy=false;queue=[];paperBg();setStatus('cleared');}
+
+function toggleSpeed(){
+  const opts=[1,2,4];
+  const idx=opts.indexOf(speed);
+  speed=opts[(idx+1)%opts.length];
+  document.getElementById('spd-label').textContent=speed+'×';
+}
+
+const link=document.createElement('link');
+link.rel='stylesheet';link.href='https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap';
+document.head.appendChild(link);
+
+paperBg();
+setStatus('pick a scene above to start drawing');
+</script>

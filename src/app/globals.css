@@ -180,3 +180,35 @@
 kbd {
   font-family: var(--font-mono), monospace;
 }
+/* ── video scrubber ─────────────────────────────────────────────── */
+.video-range {
+  accent-color: #1DB954;
+}
+.video-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #1DB954;
+  cursor: pointer;
+  box-shadow: 0 0 0 3px rgba(29,185,84,0.25);
+}
+.video-range::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #1DB954;
+  border: none;
+  cursor: pointer;
+}
+.video-range::-webkit-slider-runnable-track {
+  background: rgba(255,255,255,0.15);
+  height: 6px;
+  border-radius: 3px;
+}
+
+/* ── font utilities ─────────────────────────────────────────────── */
+.font-display { font-family: var(--font-display), "Inter", sans-serif; }
+.font-body    { font-family: var(--font-body), sans-serif; }
+

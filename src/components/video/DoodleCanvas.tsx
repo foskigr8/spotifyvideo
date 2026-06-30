@@ -78,37 +78,18 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
     []
   )
 
-  // Text is drawn whole (not letter-by-letter clear/redraw, which broke under
-  // the ruled-paper background). A short "rise + settle" reveal gives it motion
-  // without the fragile per-character rect-clear approach from v1.
+  // Text draws instantly for reliability. The sequential drawing of
+  // strokes and arrows still provides the hand-drawn doodle feel.
   const drawText = useCallback(
     async (ctx: CanvasRenderingContext2D, cmd: Extract<DrawCmd, { type: 'text' }>, mySpeed: number, myToken: number) => {
       const { text, x, y, size = 28, color = '#222', duration = 400 } = cmd
-      const steps = 10
-      const delay = duration / mySpeed / steps
-      ctx.font = `700 ${size}px 'Caveat', cursive`
-      ctx.textBaseline = 'alphabetic'
-      for (let i = 1; i <= steps; i++) {
-        if (tokenRef.current !== myToken) return
-        const t = i / steps
-        const eased = 1 - Math.pow(1 - t, 3) // ease-out cubic
-        ctx.save()
-        ctx.globalAlpha = eased
-        const riseOffset = (1 - eased) * 6
-        ctx.fillStyle = color
-        ctx.font = `700 ${size}px 'Caveat', cursive`
-        ctx.fillText(text, x, y + riseOffset)
-        ctx.restore()
-        if (i < steps) {
-          // re-clear only this frame's draw by repainting the paper strip behind it
-          // next iteration will redraw on top — acceptable since alpha overlays cleanly
-        }
-        await wait(delay, mySpeed)
-      }
-      // final crisp draw at full opacity, exact position
+      if (tokenRef.current !== myToken) return
       ctx.fillStyle = color
       ctx.font = `700 ${size}px 'Caveat', cursive`
+      ctx.textBaseline = 'alphabetic'
       ctx.fillText(text, x, y)
+      // Brief pause so elements appear sequentially, not all at once
+      await wait(Math.min(duration * 0.25, 120), mySpeed)
     },
     []
   )
@@ -175,7 +156,7 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
   )
 
   // init canvas — scale for devicePixelRatio so text/strokes stay crisp when the
-  // CSS box is stretched larger on bigger screens (fixes "too tiny" / blurry feedback)
+  // CSS box is stretched larger on bigger screens
   useEffect(() => {
     const canvas = canvasRef.current
     if (!canvas) return

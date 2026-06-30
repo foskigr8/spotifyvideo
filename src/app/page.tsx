@@ -205,7 +205,7 @@ export default function Home() {
             aspectRatio: '16 / 9',
           }}
         >
-          <DoodleCanvas scene={activeScene} replayKey={replayKey} speed={speed} />
+          <DoodleCanvas scene={activeScene} replayKey={replayKey} playing={playing} speed={speed} />
           <div
             className="absolute left-3 top-3 rounded-full px-2.5 py-1"
             style={{

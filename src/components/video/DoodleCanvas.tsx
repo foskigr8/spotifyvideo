@@ -19,7 +19,8 @@ export interface SceneWindow {
 
 interface Props {
   scene: SceneWindow | null
-  replayKey: number
+  /** Global playhead time in seconds (always passed, even when paused / seeking) */
+  currentTime: number
   playing: boolean
   speed?: number
   className?: string
@@ -34,11 +35,6 @@ interface Scheduled {
   endMs: number
 }
 
-// Pre-compute each command's [startMs, endMs] window along the scene's own
-// timeline. This is the key fix: timing is derived purely from elapsed time
-// on a single rAF clock, never from chained setTimeout calls — so it can
-// never drift or get clamped by the browser's minimum-timeout floor. A
-// command that should finish at 4200ms finishes at exactly 4200ms, always.
 function schedule(cmds: DrawCmd[]): { items: Scheduled[]; totalMs: number } {
   let t = 0
   const items: Scheduled[] = []
@@ -58,7 +54,7 @@ function schedule(cmds: DrawCmd[]): { items: Scheduled[]; totalMs: number } {
   return { items, totalMs: t }
 }
 
-export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }: Props) {
+export function DoodleCanvas({ scene, currentTime, playing, speed = 1, className }: Props) {
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const ctxRef = useRef<CanvasRenderingContext2D | null>(null)
   const dprRef = useRef(1)
@@ -81,11 +77,6 @@ export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }
     ctx.restore()
   }, [])
 
-  // Redraws the ENTIRE scene state for a given elapsed time, every frame.
-  // Elements that haven't started yet are simply not drawn. Elements mid-way
-  // through their window are drawn at partial progress. This guarantees the
-  // canvas always shows exactly the right state for "elapsed" — no drift,
-  // no leftover half-finished strokes when a scene boundary hits.
   const drawFrame = useCallback(
     (ctx: CanvasRenderingContext2D, items: Scheduled[], elapsed: number) => {
       paperBg(ctx)
@@ -121,10 +112,6 @@ export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }
             ctx.fill()
           }
         } else if (cmd.type === 'text') {
-          // Text renders instantly at full opacity once its turn comes —
-          // a past iteration of this exact engine found that fading text
-          // in via globalAlpha caused it to visually clash with/overwrite
-          // earlier content. Strokes and circles still animate progressively.
           if (progress <= 0) continue
           const { text, x, y, size = 28, color = '#222' } = cmd
           ctx.fillStyle = color
@@ -137,6 +124,7 @@ export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }
     [paperBg]
   )
 
+  // Canvas setup on mount
   useEffect(() => {
     const canvas = canvasRef.current
     if (!canvas) return
@@ -151,26 +139,35 @@ export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }
     paperBg(ctx)
   }, [paperBg])
 
-  // Only animate while actively playing. Paused or mid-seek -> blank sheet,
-  // never a leftover or pre-finished frame.
+  // Main render effect — re-runs on scene change, seek, play/pause, speed change
   useEffect(() => {
     const ctx = ctxRef.current
-    if (!scene) return
+    if (!scene || !ctx) return
 
     if (rafRef.current) cancelAnimationFrame(rafRef.current)
     startedAtRef.current = null
 
+    const { items, totalMs } = schedule(scene.cmds)
+    const sceneDurationSec = Math.max(0.001, scene.time_end - scene.time_start)
+
+    // How far into this scene's animation are we? (in ms)
+    const elapsedAtSeek = Math.max(
+      0,
+      Math.min(totalMs, ((currentTime - scene.time_start) / sceneDurationSec) * totalMs)
+    )
+
     if (!playing) {
-      if (ctx) paperBg(ctx)
+      // PAUSED or SEEKING: draw the exact static frame for this position
+      drawFrame(ctx, items, elapsedAtSeek)
       return
     }
 
-    const { items, totalMs } = schedule(scene.cmds)
-
+    // PLAYING: start rAF from elapsedAtSeek and animate forward
     const tick = (now: number) => {
       if (startedAtRef.current === null) startedAtRef.current = now
-      const elapsed = (now - startedAtRef.current) * speed
-      if (ctx) drawFrame(ctx, items, Math.min(elapsed, totalMs))
+      const runtimeElapsed = (now - startedAtRef.current) * speed
+      const elapsed = Math.min(totalMs, elapsedAtSeek + runtimeElapsed)
+      drawFrame(ctx, items, elapsed)
       if (elapsed < totalMs) {
         rafRef.current = requestAnimationFrame(tick)
       }
@@ -180,7 +177,8 @@ export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }
     return () => {
       if (rafRef.current) cancelAnimationFrame(rafRef.current)
     }
-  }, [scene?.window_index, replayKey, playing, speed, drawFrame, paperBg])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [scene?.window_index, scene?.time_start, currentTime, playing, speed, drawFrame])
 
   return (
     <canvas

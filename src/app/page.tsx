@@ -24,7 +24,6 @@ export default function Home() {
   const [t, setT] = useState(0)
   const [playing, setPlaying] = useState(false)
   const [speed, setSpeed] = useState(1)
-  const [replayKey, setReplayKey] = useState(0)
   const rafRef = useRef<number | null>(null)
   const lastTickRef = useRef<number>(0)
 
@@ -90,10 +89,8 @@ export default function Home() {
         setPlaying((p) => !p)
       } else if (e.code === 'ArrowLeft') {
         setT((p) => Math.max(0, p - (e.shiftKey ? 9 : 3)))
-        setReplayKey((k) => k + 1)
       } else if (e.code === 'ArrowRight') {
         setT((p) => Math.min(duration, p + (e.shiftKey ? 9 : 3)))
-        setReplayKey((k) => k + 1)
       }
     }
     window.addEventListener('keydown', onKey)
@@ -115,13 +112,11 @@ export default function Home() {
 
   const onSeek = useCallback((newT: number) => {
     setT(newT)
-    setReplayKey((k) => k + 1)
   }, [])
 
   const onStep = useCallback(
     (delta: number) => {
       setT((p) => Math.max(0, Math.min(duration, p + delta)))
-      setReplayKey((k) => k + 1)
     },
     [duration]
   )
@@ -205,7 +200,7 @@ export default function Home() {
             aspectRatio: '16 / 9',
           }}
         >
-          <DoodleCanvas scene={activeScene} replayKey={replayKey} playing={playing} speed={speed} />
+          <DoodleCanvas scene={activeScene} currentTime={t} playing={playing} speed={speed} />
 
         </div>
 

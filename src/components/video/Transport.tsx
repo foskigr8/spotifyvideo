@@ -21,40 +21,38 @@ function fmt(s: number): string {
 export function Transport({ t, duration, playing, speed, onSeek, onTogglePlay, onSpeed, onStep }: Props) {
   const speeds = [0.5, 1, 1.5, 2]
   return (
-    <div className="flex items-center gap-4 rounded-xl border border-white/10 bg-white/[0.03] px-4 py-3">
+    <div className="flex items-center gap-4 px-4 py-3 rounded-xl" style={{ border: '1.5px solid rgba(26,26,26,0.12)', background: 'rgba(26,26,26,0.03)' }}>
       <button
         onClick={() => onStep(-3)}
-        className="rounded-md px-2 py-1 font-mono text-xs text-white/60 transition hover:bg-white/10 hover:text-white"
-        title="Back 3s"
-      >
-        -3s
-      </button>
+        className="rounded-md px-2 py-1 transition hover:bg-black/5"
+        style={{ fontFamily: 'var(--font-mono), monospace', fontSize: '0.75rem', color: 'rgba(26,26,26,0.5)' }}
+      >-3s</button>
+
       <button
         onClick={onTogglePlay}
-        className="flex h-10 w-10 items-center justify-center rounded-full bg-[#1DB954] text-black transition hover:scale-105 hover:bg-[#1ed760] active:scale-95"
-        title={playing ? 'Pause' : 'Play'}
+        className="flex h-10 w-10 items-center justify-center rounded-full transition hover:scale-105 active:scale-95"
+        style={{ background: '#1DB954', color: '#fff' }}
       >
         {playing ? (
-          <svg width="14" height="16" viewBox="0 0 14 16" fill="currentColor"><rect x="0" y="0" width="4" height="16" rx="1"/><rect x="10" y="0" width="4" height="16" rx="1"/></svg>
+          <svg width="12" height="14" viewBox="0 0 12 14" fill="currentColor"><rect x="0" y="0" width="3.5" height="14" rx="1"/><rect x="8.5" y="0" width="3.5" height="14" rx="1"/></svg>
         ) : (
-          <svg width="14" height="16" viewBox="0 0 14 16" fill="currentColor"><path d="M0 0 L14 8 L0 16 Z"/></svg>
+          <svg width="12" height="14" viewBox="0 0 12 14" fill="currentColor"><path d="M0 0 L12 7 L0 14 Z"/></svg>
         )}
       </button>
+
       <button
         onClick={() => onStep(3)}
-        className="rounded-md px-2 py-1 font-mono text-xs text-white/60 transition hover:bg-white/10 hover:text-white"
-        title="Forward 3s"
-      >
-        +3s
-      </button>
+        className="rounded-md px-2 py-1 transition hover:bg-black/5"
+        style={{ fontFamily: 'var(--font-mono), monospace', fontSize: '0.75rem', color: 'rgba(26,26,26,0.5)' }}
+      >+3s</button>
 
-      <div className="ml-2 font-mono text-sm tabular-nums text-white/70">
-        <span className="text-white">{fmt(t)}</span>
-        <span className="mx-1 text-white/30">/</span>
+      <div style={{ fontFamily: 'var(--font-mono), monospace', fontSize: '0.85rem', color: 'rgba(26,26,26,0.6)', marginLeft: 4 }}>
+        <span style={{ color: '#1A1A1A', fontWeight: 600 }}>{fmt(t)}</span>
+        <span style={{ margin: '0 4px', color: 'rgba(26,26,26,0.3)' }}>/</span>
         <span>{fmt(duration)}</span>
       </div>
 
-      <div className="relative mx-2 flex-1">
+      <div className="relative flex-1 mx-2">
         <input
           type="range"
           min={0}
@@ -62,7 +60,8 @@ export function Transport({ t, duration, playing, speed, onSeek, onTogglePlay, o
           step={0.05}
           value={t}
           onChange={(e) => onSeek(parseFloat(e.target.value))}
-          className="video-range h-1.5 w-full cursor-pointer appearance-none rounded-full bg-white/15"
+          className="video-range h-1.5 w-full cursor-pointer appearance-none rounded-full"
+          style={{ background: 'rgba(26,26,26,0.12)' }}
         />
       </div>
 
@@ -71,12 +70,14 @@ export function Transport({ t, duration, playing, speed, onSeek, onTogglePlay, o
           <button
             key={s}
             onClick={() => onSpeed(s)}
-            className={`rounded-md px-2 py-1 font-mono text-xs transition ${
-              speed === s ? 'bg-white/15 text-white' : 'text-white/45 hover:bg-white/10 hover:text-white/80'
-            }`}
-          >
-            {s}x
-          </button>
+            className="rounded-md px-2 py-1 transition"
+            style={{
+              fontFamily: 'var(--font-mono), monospace',
+              fontSize: '0.75rem',
+              background: speed === s ? 'rgba(26,26,26,0.1)' : 'transparent',
+              color: speed === s ? '#1A1A1A' : 'rgba(26,26,26,0.4)',
+            }}
+          >{s}x</button>
         ))}
       </div>
     </div>

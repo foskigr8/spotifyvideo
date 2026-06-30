@@ -1563,15 +1563,6 @@
           "ms": 40
         },
         {
-          "type": "text",
-          "text": "let me say that again.",
-          "x": 170,
-          "y": 40,
-          "size": 23,
-          "color": "#6E6E6E",
-          "duration": 250
-        },
-        {
           "type": "wait",
           "ms": 112
         },
@@ -6081,15 +6072,6 @@
           "ms": 40
         },
         {
-          "type": "text",
-          "text": "if that sounds like a scam...",
-          "x": 142,
-          "y": 38,
-          "size": 22,
-          "color": "#6E6E6E",
-          "duration": 260
-        },
-        {
           "type": "wait",
           "ms": 528
         },
@@ -6600,15 +6582,6 @@
         {
           "type": "wait",
           "ms": 40
-        },
-        {
-          "type": "text",
-          "text": "nobody at Spotify wants you to do this.",
-          "x": 95,
-          "y": 36,
-          "size": 19,
-          "color": "#6E6E6E",
-          "duration": 250
         },
         {
           "type": "wait",
@@ -9788,15 +9761,6 @@
           "ms": 40
         },
         {
-          "type": "text",
-          "text": "June 2023",
-          "x": 26,
-          "y": 38,
-          "size": 29,
-          "color": "#1A1A1A",
-          "duration": 270
-        },
-        {
           "type": "stroke",
           "points": [
             {
@@ -10484,15 +10448,6 @@
         {
           "type": "wait",
           "ms": 40
-        },
-        {
-          "type": "text",
-          "text": "real reason: growth.",
-          "x": 170,
-          "y": 40,
-          "size": 24,
-          "color": "#E34948",
-          "duration": 260
         },
         {
           "type": "stroke",
@@ -11398,15 +11353,6 @@
         {
           "type": "wait",
           "ms": 40
-        },
-        {
-          "type": "text",
-          "text": "April 2024",
-          "x": 26,
-          "y": 38,
-          "size": 29,
-          "color": "#1A1A1A",
-          "duration": 270
         },
         {
           "type": "stroke",
@@ -12658,15 +12604,6 @@
           "ms": 40
         },
         {
-          "type": "text",
-          "text": "July 2025",
-          "x": 26,
-          "y": 38,
-          "size": 29,
-          "color": "#1A1A1A",
-          "duration": 270
-        },
-        {
           "type": "stroke",
           "points": [
             {
@@ -13223,15 +13160,6 @@
         {
           "type": "wait",
           "ms": 40
-        },
-        {
-          "type": "text",
-          "text": "2026 \u2014 hike #4",
-          "x": 26,
-          "y": 38,
-          "size": 26,
-          "color": "#E34948",
-          "duration": 260
         },
         {
           "type": "wait",

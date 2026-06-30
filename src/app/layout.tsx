@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Inter_Tight } from "next/font/google";
+import { Caveat, Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
-const interTight = Inter_Tight({
+const caveat = Caveat({
   variable: "--font-display",
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700", "800", "900"],
+  weight: ["400", "500", "600", "700"],
 });
 
 const geistSans = Geist({
@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Spotify Video Previewer",
-  description: "Word-synced motion-graphics previewer for the Spotify video essay.",
+  description: "Word-synced doodle-animation previewer for the Spotify video essay.",
 };
 
 export default function RootLayout({
@@ -32,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${interTight.variable} ${geistSans.variable} ${geistMono.variable} antialiased bg-[#0A0A0A] text-white`}
+        className={`${caveat.variable} ${geistSans.variable} ${geistMono.variable} antialiased bg-[#F5F0E8] text-[#1A1A1A]`}
       >
         {children}
         <Toaster />
@@ -40,4 +40,3 @@ export default function RootLayout({
     </html>
   );
 }
-

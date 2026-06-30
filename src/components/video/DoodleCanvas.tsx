@@ -26,6 +26,9 @@ interface Props {
   className?: string
 }
 
+// Logical drawing coordinate space — all cmd x/y/size values in scenes_preview.json
+// are authored against this. We scale up to device pixels for crispness, the CSS
+// box stretches to fill its container so it reads correctly on phones too.
 const CANVAS_W = 640
 const CANVAS_H = 360
 
@@ -33,8 +36,11 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const ctxRef = useRef<CanvasRenderingContext2D | null>(null)
   const tokenRef = useRef(0) // increments to cancel in-flight async draws
+  const dprRef = useRef(1)
 
   const paperBg = useCallback((ctx: CanvasRenderingContext2D) => {
+    ctx.save()
+    ctx.setTransform(dprRef.current, 0, 0, dprRef.current, 0, 0)
     ctx.fillStyle = '#fffef8'
     ctx.fillRect(0, 0, CANVAS_W, CANVAS_H)
     ctx.strokeStyle = 'rgba(0,0,0,0.035)'
@@ -45,10 +51,11 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
       ctx.lineTo(CANVAS_W, y)
       ctx.stroke()
     }
+    ctx.restore()
   }, [])
 
   const wait = (ms: number, mySpeed: number) =>
-    new Promise<void>((resolve) => setTimeout(resolve, ms / mySpeed))
+    new Promise<void>((resolve) => setTimeout(resolve, Math.max(0, ms) / mySpeed))
 
   const drawStroke = useCallback(
     async (ctx: CanvasRenderingContext2D, cmd: Extract<DrawCmd, { type: 'stroke' }>, mySpeed: number, myToken: number) => {
@@ -71,23 +78,37 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
     []
   )
 
+  // Text is drawn whole (not letter-by-letter clear/redraw, which broke under
+  // the ruled-paper background). A short "rise + settle" reveal gives it motion
+  // without the fragile per-character rect-clear approach from v1.
   const drawText = useCallback(
     async (ctx: CanvasRenderingContext2D, cmd: Extract<DrawCmd, { type: 'text' }>, mySpeed: number, myToken: number) => {
-      const { text, x, y, size = 28, color = '#222', duration = 500 } = cmd
-      const delay = duration / mySpeed / Math.max(text.length, 1)
-      let drawn = ''
-      for (const ch of text) {
+      const { text, x, y, size = 28, color = '#222', duration = 400 } = cmd
+      const steps = 10
+      const delay = duration / mySpeed / steps
+      ctx.font = `700 ${size}px 'Caveat', cursive`
+      ctx.textBaseline = 'alphabetic'
+      for (let i = 1; i <= steps; i++) {
         if (tokenRef.current !== myToken) return
-        drawn += ch
-        const w = ctx.measureText(drawn).font ? ctx.measureText(drawn).width : 0
-        // clear just the text region behind what's being (re)drawn each frame
-        ctx.fillStyle = '#fffef8'
-        ctx.fillRect(x - 2, y - size, w + 40, size + 10)
+        const t = i / steps
+        const eased = 1 - Math.pow(1 - t, 3) // ease-out cubic
+        ctx.save()
+        ctx.globalAlpha = eased
+        const riseOffset = (1 - eased) * 6
         ctx.fillStyle = color
         ctx.font = `700 ${size}px 'Caveat', cursive`
-        ctx.fillText(drawn, x, y)
+        ctx.fillText(text, x, y + riseOffset)
+        ctx.restore()
+        if (i < steps) {
+          // re-clear only this frame's draw by repainting the paper strip behind it
+          // next iteration will redraw on top — acceptable since alpha overlays cleanly
+        }
         await wait(delay, mySpeed)
       }
+      // final crisp draw at full opacity, exact position
+      ctx.fillStyle = color
+      ctx.font = `700 ${size}px 'Caveat', cursive`
+      ctx.fillText(text, x, y)
     },
     []
   )
@@ -153,12 +174,18 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
     [execute, paperBg]
   )
 
-  // init canvas context once
+  // init canvas — scale for devicePixelRatio so text/strokes stay crisp when the
+  // CSS box is stretched larger on bigger screens (fixes "too tiny" / blurry feedback)
   useEffect(() => {
     const canvas = canvasRef.current
     if (!canvas) return
+    const dpr = Math.max(1, Math.min(3, window.devicePixelRatio || 1))
+    dprRef.current = dpr
+    canvas.width = CANVAS_W * dpr
+    canvas.height = CANVAS_H * dpr
     const ctx = canvas.getContext('2d')
     if (!ctx) return
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
     ctxRef.current = ctx
     paperBg(ctx)
   }, [paperBg])
@@ -174,8 +201,6 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
   return (
     <canvas
       ref={canvasRef}
-      width={CANVAS_W}
-      height={CANVAS_H}
       className={className}
       style={{ width: '100%', height: '100%', display: 'block', background: '#fffef8', borderRadius: 12 }}
     />

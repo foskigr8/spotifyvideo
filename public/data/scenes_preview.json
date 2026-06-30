@@ -1555,7 +1555,7 @@
     {
       "window_index": 2,
       "time_start": 8.55,
-      "time_end": 12.85,
+      "time_end": 13.25,
       "phrase": "Let me say that again \u2014 most insane sentence in the music industry",
       "cmds": [
         {
@@ -1564,7 +1564,7 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 320
         },
         {
           "type": "stroke",
@@ -1596,7 +1596,7 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 320
         },
         {
           "type": "stroke",
@@ -1624,7 +1624,7 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 320
         },
         {
           "type": "stroke",
@@ -1664,7 +1664,7 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 320
         },
         {
           "type": "stroke",
@@ -1944,7 +1944,11 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 400
+        },
+        {
+          "type": "wait",
+          "ms": 320
         },
         {
           "type": "text",
@@ -2073,7 +2077,7 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 320
         },
         {
           "type": "text",
@@ -2086,11 +2090,11 @@
         },
         {
           "type": "wait",
-          "ms": 112
+          "ms": 320
         },
         {
           "type": "wait",
-          "ms": 750
+          "ms": 1000
         }
       ]
     },

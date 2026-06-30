@@ -121,14 +121,16 @@ export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }
             ctx.fill()
           }
         } else if (cmd.type === 'text') {
+          // Text renders instantly at full opacity once its turn comes —
+          // a past iteration of this exact engine found that fading text
+          // in via globalAlpha caused it to visually clash with/overwrite
+          // earlier content. Strokes and circles still animate progressively.
           if (progress <= 0) continue
           const { text, x, y, size = 28, color = '#222' } = cmd
-          ctx.globalAlpha = Math.min(1, progress * 3)
           ctx.fillStyle = color
           ctx.font = `700 ${size}px 'Caveat', cursive`
           ctx.textBaseline = 'alphabetic'
           ctx.fillText(text, x, y)
-          ctx.globalAlpha = 1
         }
       }
     },

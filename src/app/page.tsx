@@ -206,19 +206,7 @@ export default function Home() {
           }}
         >
           <DoodleCanvas scene={activeScene} replayKey={replayKey} playing={playing} speed={speed} />
-          <div
-            className="absolute left-3 top-3 rounded-full px-2.5 py-1"
-            style={{
-              background: 'rgba(255,255,255,0.85)',
-              fontFamily: 'var(--font-mono), monospace',
-              fontSize: '0.6rem',
-              letterSpacing: '0.15em',
-              textTransform: 'uppercase',
-              color: 'rgba(26,26,26,0.55)',
-            }}
-          >
-            window {activeScene?.window_index ?? '–'}
-          </div>
+
         </div>
 
         <Transport

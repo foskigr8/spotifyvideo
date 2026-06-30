@@ -22,6 +22,8 @@ interface Props {
   scene: SceneWindow | null
   /** bump this whenever you want the scene to redraw from scratch (e.g. on seek) */
   replayKey: number
+  /** only draw while actively playing — stays blank when paused/seeking */
+  playing: boolean
   speed?: number
   className?: string
 }
@@ -32,7 +34,7 @@ interface Props {
 const CANVAS_W = 640
 const CANVAS_H = 360
 
-export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) {
+export function DoodleCanvas({ scene, replayKey, playing, speed = 1, className }: Props) {
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const ctxRef = useRef<CanvasRenderingContext2D | null>(null)
   const tokenRef = useRef(0) // increments to cancel in-flight async draws
@@ -171,13 +173,23 @@ export function DoodleCanvas({ scene, replayKey, speed = 1, className }: Props) 
     paperBg(ctx)
   }, [paperBg])
 
-  // run the scene whenever it changes (or replayKey forces a redraw)
+  // Only draw while actively playing. When paused or while scrubbing the
+  // timeline, cancel any in-flight draw and show a blank sheet — the
+  // animation should never appear "already finished" before you hit play.
   useEffect(() => {
+    const ctx = ctxRef.current
     if (!scene) return
+
+    if (!playing) {
+      tokenRef.current += 1 // cancel any in-flight draw
+      if (ctx) paperBg(ctx)
+      return
+    }
+
     runScene(scene.cmds, speed)
     // intentionally not awaiting — fire and forget, cancellation via tokenRef
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [scene?.window_index, replayKey])
+  }, [scene?.window_index, replayKey, playing])
 
   return (
     <canvas
